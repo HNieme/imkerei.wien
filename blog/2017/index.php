@@ -4,7 +4,7 @@
 					<h1>2017</h1>
 					<img src="img/header-beuten-small.jpg" alt="Drei Bienenstöcke"  class="img-fullwidth">
 					<p><br /><br /></p>
-					<h3 id="14.02-bis-11.05">14. Februar - 11. Mai</h3>
+					<h3 id="14.02-bis-11.05"><a href="#14.02-bis-11.05" >14. Februar - 11. Mai</a></h3>
 					<p>
 						Schon 2016 sah ich über YouTube auf zahlreiche Videos zum Thema Imkerei, wodurch mein Interesse für dieses Themengebiet geweckt wurde. 
 						Anfang des Sommers fand ich dann die <a href="https://www.imker-wien.at/index.php/imkerschule.html" target="_blank">Imkereigrundkurse des Landesverbands für 
@@ -14,7 +14,7 @@
 						Würde ich jederzeit wieder machen.
 						<br /><br /><br />
 					</p>
-					<h3 id="04.06">Sa, 04. Juni</h3>
+					<h3 id="04.06"><a href="#04.06">Sa, 04. Juni</a></h3>
 					<p>
 						Endlich ist es so weit! Ich kaufe meine ersten Bienen, einen 1,5 kg Kunstschwarm mit Reinzuchtkönigin. Die Bienen sind in einer Kartonschachtel mit seitlichen Gitteröffnungen, die Königin in einem kleinen Käfig. Dieser hat einen mit Zuckerteig verschlossenen Eingang, durch den sich die Bienen erst durch fressen müssen. So können sich Bienen und Königin erst einmal an einander gewöhnen ohne direkt in Kontakt zu kommen. Der Käfig der Königin wird an einem dünnen Draht in den Kunstschwarm gehängt. In den nächsten Stunden werden die Bienen den Zuckerteig fressen und die Königin so befreien.
 						<br /><br />
@@ -28,7 +28,7 @@
 						Mein Schwarm steht gut hinter hohem Gras versteckt und vor Regen geschützt.
 						<br /><br />
 					</p>
-					<h3 id="07.06">Mi, 07. Juni</h3>
+					<h3 id="07.06"><a href="#07.06" >Mi, 07. Juni</a></h3>
 					<p>
 						Mein Bienenschwarm wird in eine Beute umgesetzt, die vom Vereinsobmann zur Verfügung gestellt wurde. Die Rähmchen haben sogar eingelötete Mittelwände  (Mittelwände sind Wachsplatten, die als Leitstruktur für den Wabenbau dienen)! Vielen Dank dafür!
 						<br /><br />
@@ -41,13 +41,13 @@
 					
 					
 					
-					<h3 id="11.06">Sa, 11. Juni</h3>
+					<h3 id="11.06"><a href="#11.06" >Sa, 11. Juni</a></h3>
 					<p>
 						Heute kaufe ich weitere zwei Kunstschwärme und verfahre mit diesen genau wie mit meinem ersten Schwarm vom 4. Juni. Damit habe ich die drei für die Einsteigerförderung notwendigen Schwärme und Reinzuchtköniginnen.
 						<br /><br />
 					</p>
 					
-					<h3 id="13.06">Di, 13. Juni</h3>
+					<h3 id="13.06"><a href="#13.06" >Di, 13. Juni</a></h3>
 					<p>
 						Meine Beuten werden geliefert, ich setze die Bienen aus den beiden Kartons in die neuen Beuten um. Leider habe ich noch keine Mittelwände, aber ich drücke die bereits im Karton gebauten Waben in die Drähte der Rähmchen (Rähmchen sind Holzrahmen, in denen Bienen ihre Waben bauen). Die Bienen aus der vom Vereinsobmann zur Verfügung gestellten Beute werden ebenfalls in eine eigene Beute umgesiedelt.
 						<br /><br />
@@ -62,7 +62,7 @@
 						Die Bienen können es jedoch trotzdem trinken.
 						<br /><br />
 					</p>
-					<h3 id="03.07">Mo, 03. Juli</h3>
+					<h3 id="03.07"><a href="#03.07">Mo, 03. Juli</a></h3>
 					<p>
 						Die erste Generation Brut/Bienen im ersten Volk ist bereits fast vollständig geschlüpft. In dieser Woche findet auch die erste Behandlung gegen die Varroamilbe statt. Das ist ein Parasit, der, wenn nichts gegen ihn getan wird, die Bienen stark schädigt.
 						<img src="img/falschgebaut-small.jpg" alt="Meine Beuten"  class="img-fullwidth">
@@ -72,14 +72,14 @@
 						Ein kleiner Besucher, der erstaunlich laut fauchen kann.
 						<br /><br />
 					</p>
-					<h3 id="14.07">Mo, 14. Juli</h3>
+					<h3 id="14.07"><a href="#14.07">Mo, 14. Juli</a></h3>
 					<p>
-						Das besonders schwache Volk ist leer, keine einzige Biene ist zu sehen. Schade :(
+						Das besonders schwache Volk ist leer, keine einzige Biene ist noch da<. Schade :(
 						<br /><br />
 						Damit habe ich nur noch zwei Völker.
 						<br /><br />
 					</p>
-					<h3 id="09.09">Mo, 09. September</h3>
+					<h3 id="09.09"><a href="#09.09">Mo, 09. September</a></h3>
 					<p>
 						Ernte von etwas Propolis, den die Bienen auf die Oberseite der Rähmchen geklebt haben und, wie immer, viel Zuckerwasser füttern.
 						<br /><br />
@@ -88,7 +88,7 @@
 						Ein Blick durch den Putzkeil (eine Öffnung auf der Rückseite der Beute).
 						<br /><br />
 					</p>
-					<h3 id="11.11">11.November</h3>
+					<h3 id="11.11"><a href="#11.11">11.November</a></h3>
 					<p>
 						Im November wurde noch einmal gegen die Varroamilbe behandelt und die Bienenvölker wurden eingewintert.
 					</p>

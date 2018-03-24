@@ -37,19 +37,19 @@
 						</ul>
 					</div>
 					<div class="footer-link-collection">
-						<span>Section-title</span>
+						<span>Blog</span>
 						<ul>
 							<li>
-								<a href="" >Link-Text</a>
+								<a href="/blog/2018/#17.03">17. März 2018 - Füttern</a>
 							</li>
 							<li>
-								<a href="" >Link-Text</a>
+								<a href="/blog/2018/#10.03">10. März 2018 - Auswintern</a>
 							</li>
 							<li>
-								<a href="" >Link-Text</a>
+								<a href="/blog/2018/" >Zusammenfassung des Jahres 2018</a>
 							</li>
 							<li>
-								<a href="" >Link-Text</a>
+								<a href="/blog/2017/" >Zusammenfassung des Jahres 2017</a>
 							</li>
 						</ul>
 					</div>
