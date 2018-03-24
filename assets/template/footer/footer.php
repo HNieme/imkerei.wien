@@ -6,10 +6,10 @@
 						<span>Produkte</span>
 						<ul>
 							<li>
-								<a href="" >Propolis</a>
+								<a href="/produkte/propolis/" >Propolis</a>
 							</li>
 							<li>
-								<a href="" >Honig</a>
+								<a href="/produkte/honig/" >Honig</a>
 							</li>
 			<!--				<li>
 								<a href="" >Link-Text</a>

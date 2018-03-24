@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/hnieme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://imkerei.wien
+  * I am hnieme (https://keybase.io/hnieme) on keybase.
+  * I have a public key with fingerprint 9258 49E8 4B61 5C76 235A  DE49 FD27 9AD7 68A0 EF1D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010192c40381d454138da91f7a7557ad7d414ce641758a87c669a1556dc70c695b970a",
+      "fingerprint": "925849e84b615c76235ade49fd279ad768a0ef1d",
+      "host": "keybase.io",
+      "key_id": "fd279ad768a0ef1d",
+      "kid": "010192c40381d454138da91f7a7557ad7d414ce641758a87c669a1556dc70c695b970a",
+      "uid": "bd28e12e0e784496afb6039995f96919",
+      "username": "hnieme"
+    },
+    "service": {
+      "hostname": "imkerei.wien",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519085762,
+  "expire_in": 157680000,
+  "prev": "6955219ed03827d3208eacb45524188785d7651648ee351cff2eb00972c2f1d6",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUYXhYkIxgXGNMYcOKS2sQG9969nztDRGTF2ChOxQDVLPfjLHtjubvs
+3uVrAZXdARrTENCAqWBCISgkopFIU8Phaxwx0oCp4SNISUPjwyYUrc5l9F8/O3/O
+Oc95nue87zNvZZCvZr3Pvs6a2G057ks+F67zmvQDliE3wtvEAsToRrLA2gasInAq
+pixJRIwIiqEYiwsEamAwkSAJzMCIHIuZaY4mSZoTaZHACAFQBEaTDMfQAkWxHEaS
+lCjQqECxJM/SKIfoEbMkZwKH3SHJCrRlcZIhWMAQPIWRAk3hBpITAcGaRZxmoSvF
+cCgwYyIUWmxOVQGL4zkniJFsEIMX01p5/8H/n+t2rdnxIs4ADAcooBmCYCnOzFOo
+gWVZ0sxSLMaqRCdwyFw2gGyLLAF4KNYjEMuVBKDGqvbx4F3KzgIOIMXkSUCGSrvD
+ptgEm1VVKordaVSVSoFdpeYB3vTAxMRLsghThIpc4HBKNhkxYpApKJLqipEYizIk
+zFKPgHy75AAmSWVAhEHhUv8BudASNkfiGAvEFBgOTosGHGUAJ/AEhAmMYWiGhIGS
+GEUwABhITDCbccCjKEvjAg4zphC1rxzZhhgZWCeXCT2dUqbMKS4HbDrgXa3BT+Oz
+XhPxeKRfwxOV3SXCR83ze842PZy8dVp17DQBj+oeInXLOk3j/SFX/fGuJiUjuCxl
+8ua5vY21h91h134pOja8OGLbmiZ+v3sp/qq/8ULI3OBERM5g/pKs623etPiNTZEt
+Ie+9mHrujf2H49uJZXtD667o7Z8tPqPVh38YfdQ/YeT8J964r1L9QVXgYnift7wu
+/XRDhKIb/ru3fEZJeixUu+Wp8RZNcnXhwPRqLXtr4q8ofeD1U8eX835ItoT3DwzX
+FCu9Xw9F5VzdcBB3TS4kBsyXvn9j+l7bt2nzox6pLC7jjzHqoHdpdiYyfdn58anv
+ql/7ObWotX/HicT2XZcNGaELrwcVd20YrQRfmva74h5ZWr20R+fZFtY5kHB2M1n+
+3MWx8cV667PTG7u83qb0sLrxoL6LVWl32bYdFdcS7zQXVfjv7DhfExDqzrPbpzz6
+QzEtC6XDhhvJxf8YQwq9b6ZWxn0wdLmFVWacPnzfk1llN2c7qKc9Pe3Ij97JoYr5
+Iwmfr+vpG4y84hsUmf3F3MiV6i31bb/Xpljzl1bCYu3RM2lc0Urf7aSCk34FHs30
+K/Ezzbs9R5I6LK+embD+mT+7unIr/OXJscDfgt1zp2veCrZO6T9NLrV0V6xqXxr1
+2zkx1dP5wtiBiLtZduSdqTt0SWH18439Z6Ii9m0vb9eudKe1TuvuFd7f6qtsVDYd
+Pclsnj02sbf5p6rCE8Mxs86RX0tLct++HVuEtP4L
+=viht
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hnieme
+
+==================================================================
+

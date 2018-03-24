@@ -271,6 +271,13 @@ footer span{
 .img-fullwidth{
 	width: 100%;
 }
+article a {
+	color: rgba(237, 144, 6, 1);
+	text-decoration: none;
+}
+article a:hover {
+	text-decoration: underline;
+}
 article h1{
 	font-size: 2em;
 	color: rgba(255, 155, 6, 1);
