@@ -2,8 +2,8 @@
 			include "../assets/template/head/head.php";
 		?>
 		<?php 
-			include "../anleitungen/beute/hohenheimer-einfachbeute-18mmLeimholz/preview.php";
-			include "../anleitungen/smoker/preview.php";
+			include "2017/preview.php";
+			
 		?>			
 		
 		<?php 
