@@ -51,26 +51,46 @@
 					<p>
 						Meine Beuten werden geliefert, ich setze die Bienen aus den beiden Kartons in die neuen Beuten um. Leider habe ich noch keine Mittelwände, aber ich drücke die bereits im Karton gebauten Waben in die Drähte der Rähmchen (Rähmchen sind Holzrahmen, in denen Bienen ihre Waben bauen). Die Bienen aus der vom Vereinsobmann zur Verfügung gestellten Beute werden ebenfalls in eine eigene Beute umgesiedelt.
 						<br /><br />
+						<img src="img/beuten-small.jpg" alt="Meine Beuten"  class="img-fullwidth">
+						<br /><br />
 						Außerdem werden alle Völker mit je einem Liter Zuckerwasser gefüttert. 
 						<br /><br />						
 						Von nun an werden die Völker jede Woche mit je etwa 2-5l Zuckerwasser gefüttert, damit sie für den Winter ausreichend stark werden.
 						<br /><br />
-						<img src="img/beuten-small.jpg" alt="Meine Beuten"  class="img-fullwidth">
+						<img src="img/futterkübel-small.jpg" alt="Futterkübel im Bienenvolk"  class="img-fullwidth">
+						Der Futterkübel hat im Deckel ein feines Gitter. Verkehrt aufgestellt verhindert das entstehende "Vakuum" das Auslaufen des Zuckerwassers. 
+						Die Bienen können es jedoch trotzdem trinken.
 						<br /><br />
 					</p>
-					<h3 id="03.07">Mo, 03. Juni</h3>
+					<h3 id="03.07">Mo, 03. Juli</h3>
 					<p>
-						Die erste Generation Brut/Bienen im ersten Volk ist bereits fast vollständig geschlüpft. 
+						Die erste Generation Brut/Bienen im ersten Volk ist bereits fast vollständig geschlüpft. In dieser Woche findet auch die erste Behandlung gegen die Varroamilbe statt. Das ist ein Parasit, der, wenn nichts gegen ihn getan wird, die Bienen stark schädigt.
 						<img src="img/falschgebaut-small.jpg" alt="Meine Beuten"  class="img-fullwidth">
-						Die anderen Völker haben etwas Schwierigkeiten und anscheinend noch nicht mitbekommen, dass IN den Rähmchen gebaut werden sollte, nicht unterhalb.
+						Die anderen Völker haben etwas Schwierigkeiten und anscheinend noch nicht mitbekommen, dass IN den Rähmchen gebaut werden sollte, nicht unterhalb. Ein Volk ist besonders schwach.
 						<br /><br />
 						<img src="img/igel-small.jpg" alt="Meine Beuten"  class="img-fullwidth">
 						Ein kleiner Besucher, der erstaunlich laut fauchen kann.
 						<br /><br />
 					</p>
-					<h3 id="05.07">Mo, 09. September</h3>
+					<h3 id="14.07">Mo, 14. Juli</h3>
 					<p>
-						Ernte von etwas Propolis, den die Bienen auf die Oberseite der Rähmchen geklebt haben und wie immer, viel Zuckerwasser füttern.
+						Das besonders schwache Volk ist leer, keine einzige Biene ist zu sehen. Schade :(
+						<br /><br />
+						Damit habe ich nur noch zwei Völker.
+						<br /><br />
+					</p>
+					<h3 id="09.09">Mo, 09. September</h3>
+					<p>
+						Ernte von etwas Propolis, den die Bienen auf die Oberseite der Rähmchen geklebt haben und, wie immer, viel Zuckerwasser füttern.
+						<br /><br />
+						<img src="img/propolis1-small.jpg" alt="Propolis"  class="img-fullwidth">
+						<img src="img/putzkeilblick-small.jpg" alt="Blick durch den Putzkeil"  class="img-fullwidth">
+						Ein Blick durch den Putzkeil (eine Öffnung auf der Rückseite der Beute).
+						<br /><br />
+					</p>
+					<h3 id="11.11">11.November</h3>
+					<p>
+						Im November wurde noch einmal gegen die Varroamilbe behandelt und die Bienenvölker wurden eingewintert.
 					</p>
 		<?php 
 			include "../../assets/template/footer/footer.php";
