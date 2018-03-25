@@ -23,10 +23,10 @@
 						<span>Bauanleitungen</span>
 						<ul>
 							<li>
-								<a href="" >Hohenheimer Einfachbeute</a>
+								<a href="/anleitungen/beute/hohenheimer-einfachbeute-18mmLeimholz/" >Hohenheimer Einfachbeute</a>
 							</li>
 							<li>
-								<a href="" >Smoker</a>
+								<a href="/anleitungen/smoker/" >Smoker</a>
 							</li>
 			<!--				<li>
 								<a href="" >Schleier</a>

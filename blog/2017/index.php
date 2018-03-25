@@ -74,7 +74,7 @@
 					</p>
 					<h3 id="14.07"><a href="#14.07">Mo, 14. Juli</a></h3>
 					<p>
-						Das besonders schwache Volk ist leer, keine einzige Biene ist noch da<. Schade :(
+						Das besonders schwache Volk ist leer, keine einzige Biene ist mehr da. Schade :(
 						<br /><br />
 						Damit habe ich nur noch zwei Völker.
 						<br /><br />
