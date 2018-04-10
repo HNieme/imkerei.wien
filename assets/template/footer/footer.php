@@ -40,6 +40,9 @@
 						<span>Blog</span>
 						<ul>
 							<li>
+								<a href="/blog/2018/#07.04">07. April 2018 - Streichen der Beuten</a>
+							</li>
+							<li>
 								<a href="/blog/2018/#17.03">17. März 2018 - Füttern</a>
 							</li>
 							<li>

@@ -38,11 +38,11 @@
 						<br /><br />
 						Da ich Lebensmittel produzieren möchte dürfen die Farben keine Giftstoffe enthalten, da diese unter Umständen in den Honig gelangen könnten. Daher habe ich mir für Kinderspielzeug geeignete Farben gekauft.
 						<br /><br />
-						<img src="img/2018_04_06_beuten_streichen.jpg" alt="Ich beim Streichen meiner Beuten"  class="img-fullwidth">
+						<img src="img/2018_04_06_beuten_streichen-small.jpg" alt="Ich beim Streichen meiner Beuten"  class="img-fullwidth">
 						<br /><br />
-						Mit tatkräftiger Unterstützung (hier gerade hinter der Kamera) werden alle Teile mit Schleifpapier abgeschliffen, lackiert, wieder angeschliffen und ein zweites mal lackiert.
+						Mit tatkräftiger Unterstützung (hier gerade hinter der Kamera, vielen Dank nochmal!) werden alle Teile mit Schleifpapier abgeschliffen, lackiert, wieder angeschliffen und ein zweites mal lackiert.
 						<br /><br />
-						<img src="img/2018_04_06_beuten_teilweise_gestrichen.jpg" alt="Beuten teilweise gestrichen"  class="img-fullwidth">
+						<img src="img/2018_04_06_beuten_teilweise_gestrichen-small.jpg" alt="Beuten teilweise gestrichen"  class="img-fullwidth">
 						Nach beinahe sechs Stunden Arbeit sind zwei der drei Beuten fertig gestrichen. Fast zwei Drittel der für neun Quadratmeter geeigneten Farbe haben wir verbraucht! 
 						<br />
 						Genug für heute, nächsten Samstag geht's weiter!
