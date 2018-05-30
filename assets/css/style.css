@@ -315,13 +315,41 @@ article p{
 	font-size: 1em;
 	letter-spacing: 0.7px;
 }
-article ul{
+article ul, article ol{
 	padding: 14px 2em;
 	/*list-style: rgba(255, 155, 6, 1);colored points https://stackoverflow.com/questions/5306640/how-to-set-bullet-colors-in-ul-li-html-lists-via-css-without-using-any-images-or*/
+	list-style: none;
+	counter-reset: li
 }
-article ul li{
-	padding-top: 4px;
+article ul li::before {
+	content: "\25CF";
+	color: rgba(255, 155, 6, 1);
+	display: inline-block;
+	width: 30px;
+	font-size: 2em;
+	line-height: 0px;
+	margin-left: -1em
 }
+article ol li::before {
+	content: counter(li);
+	color: rgba(255, 155, 6, 1);
+	display: inline-block;
+	width: 1em;
+	margin-left: -1.5em;
+	margin-right: 0.5em;
+	text-align: right;
+	direction: rtl;
+	font-size: 1.35em
+}
+
+article ul li, article ol li{
+	counter-increment: li;
+}
+article aside .wide-ul li {
+	margin-top: 10px;
+}
+
+
 article aside {
 	float: right; 
 	width: 40%; 
@@ -331,6 +359,7 @@ article aside {
 	padding: 10px 10px 10px 10px;
 	margin: 5px 20px 20px 15px;
 }
+
 @media only screen and (max-width: 700px){
 	article aside {
 		

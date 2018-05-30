@@ -60,6 +60,9 @@
 						<span>Info</span>
 						<ul>
 							<li>
+								<a href="/official/kontakt.php">Kontakt</a>
+							</li>
+							<li>
 								<a href="https://niemeczek.at/about-me.php">Über mich</a>
 							</li>
 							<li>
