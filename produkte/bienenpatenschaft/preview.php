@@ -1,7 +1,7 @@
-				<a class="preview" href="/produkte/propolis/">
-					<img src="/produkte/propolis/img/propolis-preview.jpg" alt="Propolis">
+				<a class="preview" href="/produkte/bienenpatenschaft/">
+					<img src="/produkte/bienenpatenschaft/img/preview.jpg" alt="Flugbrett">
 					<div>
-						<span class="preview-title">Propolis</span>
-						<span class="preview-text">Im Herbst 2017 konnte ich geringe Mengen Propolis ernten.</span>
+						<span class="preview-title">Bienenpatenschaft</span>
+						<span class="preview-text">Den Aufbau eines Paten-Bienenvolkes unterstützen und die Geschehnisse rund um Dein Patenvolk ein ganzes Jahr lang miterleben.</span>
 					</div>
 				</a>
