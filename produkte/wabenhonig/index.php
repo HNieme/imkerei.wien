@@ -11,7 +11,7 @@
 				Als Wabenhonig werden mit Honig gefüllte Stücke von Bienenwaben bezeichnet. Honig in Gläsern durch Schleudern aus den Bienenwaben extrahiert. Bei Wabenhonig geschieht dies nicht, es wird die gesamte Wabe gegessen - Ein außergewöhnliches Genusserlebnis! 
 				<br />
 				<br />
-				Ich esse Wabenhonig beispielsweise gerne zum Frühstück oder nasche ihn einfach mal zwischendurch. Das Wachs kann dabei mitgegessen werden oder auch ausgespuckt werden.
+				Ich esse Wabenhonig beispielsweise gerne zum Frühstück oder nasche ihn einfach mal zwischendurch. Das Wachs kann dabei mitgegessen werden oder einfach nur gekaut und dann ausgespuckt werden. Außerdem kann man Wabenhonig auch, wie normalen Honig, aufs Brot streichen.
 				<br />
 				<br />
 				Heuer gibt es zwei Varianten: Als Stück aus einer großen Wabe geschnitten oder von Bienen direkt in den Rahmen gebaut.
