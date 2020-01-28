@@ -120,7 +120,7 @@
 								<a href="https://bienenkunde.uni-hohenheim.de/einfachbeute">Landesanstalt für Bienenkunde Universität Hohenheim - Einfachbeute (Holzstärke 20mm)</a>
 							</li>
 							<li>
-								<a href="http://www.imkerei-brodbeck.de/bauanleitung-hohenheimer-einfachbeute-aus-18mm-leimholz">Eine Bauanleitung mit 18mm Holz</a>
+								<a href="https://www.imkerei-brodbeck.de/bauanleitung-hohenheimer-einfachbeute-aus-18mm-leimholz">Eine Bauanleitung mit 18mm Holz</a>
 							</li>
 						</ul>
 						<br /><br /><br />

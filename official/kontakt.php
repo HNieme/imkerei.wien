@@ -7,7 +7,7 @@
 				So kannst du mich erreichen:
 				<ul class="wide-ul">
 					<li>
-						E-Mail: <a href="mailto:kontakt@imkerei.wien">kontakt@imkerei.wien</a> (Verschlüsselung via <a href="https://niemeczek.at/blog/gpg/">GPG</a> möglich.)
+						E-Mail: <a href="mailto:kontakt@imkerei.wien">kontakt@imkerei.wien</a> (Verschlüsselung via <a href="https://niemeczek.at/GnuPG/">GPG</a> möglich.)
 					</li>
 					<li>
 						Telefon: <a href="tel:+4367761208583">+43 677 61208583</a> - Please respect that I live in Europe and really like undisturbed sleep during the night and early morning.
@@ -26,18 +26,18 @@
 			</p>
 			<h2>GPG-Schlüssel:</h2>
 			<p>
-				<a href="/GnuPG">Was ist PGP?</a>
+				<a href="https://niemeczek.at/GnuPG">Was ist PGP?</a>
 				<br /><br />
 				<b>Schlüssel für alltägliches Verschlüsseln und Unterschreiben:</b> 
 				<br />
-				<a href="/GnuPG/Harald Niemeczek harald@niemeczek.at (0x68A0EF1D) pub.asc">0x68A0EF1D</a>  -  
+				<a href="https://niemeczek.at/GnuPG/Harald Niemeczek harald@niemeczek.at (0x68A0EF1D) pub.asc">0x68A0EF1D</a>  -  
 				Fingerprint: 9258 49E8 4B61 5C76 235A DE49 FD27 9AD7 68A0 EF1D
 				<br /><br />
 				Dieser Schlüssel verwendet <a target="_blank" href="https://wiki.debian.org/Subkeys">Subkeys</a>, der Hauptschlüssel (master-key) ist offline gespeichert, sodass im Falle der Kompromittierung des Schlüssels nur die Subkeys ersetzt werden müssen. Diese werden außerdem alle 2 Jahre rotiert/ersetzt. Es kann davon ausgegangen werden, dass der Schlüssel ein niedriges Sicherheitslevel hat. Er ist signiert durch meinen ...
 				<br /><br />
 				<b>Keysigning Key</b>
 				<br />
-				<a href="/GnuPG/Harald Niemeczek (offline long-term identity key) (0x8B2E508B) pub.asc">SCHLÜSSELKENNUNG</a>  -  
+				<a href="https://niemeczek.at/GnuPG/Harald Niemeczek (offline long-term identity key) (0x8B2E508B) pub.asc">0x8B2E508B</a>  -  
 				Fingerprint: 5A64 3A84 3226 9551 F76A 6A9B D059 3ABB 8B2E 508B
 				<br /><br />
 				Das ist ein Offline-Schlüssel, ausschließlich verwendet zum signieren der Hauptschlüssel und als Verbindung zum "Web of Trust". Dieser Schlüssel hat ein hohes Sicherheitslevel.
