@@ -94,6 +94,7 @@
 						Aus dem übriggebliebenen Stück Holz von der hinteren Wand kann ggf. noch der Verschluss für den Putzkeil gebaut werden. Dazu einfach ein etwas größeres Stück Sperrholz ankleben und ein Stück von den Holzresten als Griff verwenden. Anschließend mit Vorreibern fixieren.
 						<br /><br />
 						Zum Schutz gegen herausfallen des Fluglochverschlusses kann jetzt noch ein kleines Stück Sperrholz ausgeschnitten und lose über dem Flugloch festgeschraubt werden.
+							<br /><br />
 						</p> 
 						<h3>Zargen</h3>
 						<p>
@@ -103,10 +104,14 @@
 						Die schwierigere Methode, die jedoch auch deutlich schönere Ergebnisse erzielt ist, die Bauteile mit noch feuchtem Leim direkt zu verschrauben. Dabei werden die kurzen Seiten wie bereits vorher verleimt, jedoch werden die Zargen sofort danach verschraubt. Dabei habe ich ein Brett der breiten Seite auf den Boden gelegt, die schmalen Seiten passend daraufgestellt und anschließend das zweite große Brett passend daraufgelegt. Anschließend wird die Zarge durch draufsetzen stabilisiert, die Bretter millimetergenau ausgerichtet und sofort gebohrt und verschraubt. Anschließend wird die Zarge umgedreht und auf der anderen Seite genauso vorgegangen. Bei dieser Methode entstanden bei mir kaum Spalten und die Zargen wackelten nicht aufeinander.
 						<br /><br />
 						Sollten Rähmchen mit kurzen Ohren im Einsatz sein, so müssen noch die in der Materialliste erwähnten Leisten eingeklebt werden, um ein Herunterfallen der Rähmchen zu verhindern. 
+						<br /><br />
 					</p>
 					<h3>Futterzarge und Deckel</h3>
 					<p>
 						Bisher habe ich erst 2 verkleinerte Schnittpläne (je 2 Platten mit je 1 Boden und zwei Zargen) gebaut. Daher habe ich noch keine detaillierte Bauanleitung für die Futterzarge und den Deckel. Ich gehe aber davon aus, dass aufgrund der vorhandenen Baupläne ein Zusammenbauen nicht so schwer fallen dürfte.
+
+						<br /><br />
+						<b>Anstrich: Ich empfehle dringend, die Beuten außen mit Lasur oder Lack (z.B. <a href="https://www.auro.de/de/produkte/moebel-und-holzflaechen/holzlasuren/160-holzlasur-aqua/">Holzlasur Aqua Nr. 160</a>) zu streichen! Ohne Anstrich ist die Lebensdauer der Beuten sehr beschränkt, mit Anstrich halten meine schon den dritten Winter ohne sichtbare Verwitterung durch. Innen benötigen die Beuten keinen Anstrich.</b>
 						</p>
 						<p>
 						<br /><br />
