@@ -31,7 +31,7 @@
 			</p>
 			<img src="img/flugbrett.jpg" alt="Glas Honig mit Zentralfriedhof-Etikett"  class="img-fullwidth">
 			<p>
-			Das Glas gibt es um 7€ + 0,50€ Pfand (= 7,50€).
+			Das Glas gibt es um 8€ + 0,50€ Pfand (= 8,50€).
 			<br />
 			Außerdem habe ich noch <a href="../wabenhonig/" >Wabenhonig</a>!
 			</p>
