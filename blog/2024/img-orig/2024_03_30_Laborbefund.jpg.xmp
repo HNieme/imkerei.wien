@@ -10,16 +10,16 @@
    xmp:Rating="1"
    xmpMM:DerivedFrom="2024_03_30_Laborbefund.jpg"
    darktable:import_timestamp="63861767177797972"
-   darktable:change_timestamp="63861768283001845"
-   darktable:export_timestamp="63861768495943512"
+   darktable:change_timestamp="-1"
+   darktable:export_timestamp="63861767402795338"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1"
-   darktable:history_end="5"
+   darktable:history_end="4"
    darktable:iop_order_version="2"
    darktable:history_basic_hash="adf93e2c7aefb698a6ff153e3fa7f0b8"
-   darktable:history_current_hash="adc6af82129dc2eaf188c0f717b936ad">
+   darktable:history_current_hash="adf93e2c7aefb698a6ff153e3fa7f0b8">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -61,16 +61,6 @@
       darktable:enabled="1"
       darktable:modversion="2"
       darktable:params="ffffffff"
-      darktable:multi_name=""
-      darktable:multi_priority="0"
-      darktable:blendop_version="11"
-      darktable:blendop_params="gz14eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfNoAAE8gGQg="/>
-     <rdf:li
-      darktable:num="4"
-      darktable:operation="crop"
-      darktable:enabled="1"
-      darktable:modversion="1"
-      darktable:params="220f863e2008023254fd3b3f0000803f0100000001000000"
       darktable:multi_name=""
       darktable:multi_priority="0"
       darktable:blendop_version="11"
