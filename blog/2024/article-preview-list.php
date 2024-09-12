@@ -1,4 +1,3 @@
-<p>hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
 <?php
 include "varroabehandlung_preview.php";
 include "2024_08_05_preview.php";
