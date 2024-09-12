@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="10.01"><a href="#10.01" >10. Jänner - AFB-Probenentnahme oder ein "Gurgel-Test" für Bienen</a></h3>
+					<h3 id="29.01"><a href="#29.01" >29. Jänner - AFB-Probenentnahme oder ein "Gurgel-Test" für Bienen</a></h3>
 					<p>
 					    Im Winter lassen die Bienen immer ein paar "Bröseln" fallen. Hauptsächlich sind das aufgenagte Wabendeckeln um an den Honig zu kommen, aber auch Varroa-Milben, die bei der Behandlung im Winter abgefallen sind und anderer Abfall.
 					    <br /><br />
