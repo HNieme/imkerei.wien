@@ -10,16 +10,16 @@
    xmp:Rating="1"
    xmpMM:DerivedFrom="2024_03_29_Bienenwabe.jpg"
    darktable:import_timestamp="63861767177793109"
-   darktable:change_timestamp="-1"
-   darktable:export_timestamp="63861767403163865"
+   darktable:change_timestamp="63861768291249376"
+   darktable:export_timestamp="63861768496244933"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1"
-   darktable:history_end="4"
+   darktable:history_end="5"
    darktable:iop_order_version="2"
    darktable:history_basic_hash="c80077d119ae746632f44df3493dfd64"
-   darktable:history_current_hash="c80077d119ae746632f44df3493dfd64">
+   darktable:history_current_hash="013e05aa42aaba6169f0d0f6a99d9cd0">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -61,6 +61,16 @@
       darktable:enabled="1"
       darktable:modversion="2"
       darktable:params="ffffffff"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="11"
+      darktable:blendop_params="gz14eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfNoAAE8gGQg="/>
+     <rdf:li
+      darktable:num="4"
+      darktable:operation="crop"
+      darktable:enabled="1"
+      darktable:modversion="1"
+      darktable:params="000000004814e33d0000803f3a9b5c3f0100000001000000"
       darktable:multi_name=""
       darktable:multi_priority="0"
       darktable:blendop_version="11"

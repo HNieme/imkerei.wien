@@ -10,16 +10,16 @@
    xmp:Rating="1"
    xmpMM:DerivedFrom="2024_06_26_Bienenbeuten.jpg"
    darktable:import_timestamp="63861767177813641"
-   darktable:change_timestamp="-1"
-   darktable:export_timestamp="63861767401453910"
+   darktable:change_timestamp="63861768230650566"
+   darktable:export_timestamp="63861768495031365"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1"
-   darktable:history_end="4"
+   darktable:history_end="5"
    darktable:iop_order_version="2"
    darktable:history_basic_hash="adf93e2c7aefb698a6ff153e3fa7f0b8"
-   darktable:history_current_hash="adf93e2c7aefb698a6ff153e3fa7f0b8">
+   darktable:history_current_hash="255de949d9a26697dc78fab23302ea6e">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -61,6 +61,16 @@
       darktable:enabled="1"
       darktable:modversion="2"
       darktable:params="ffffffff"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="11"
+      darktable:blendop_params="gz14eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfNoAAE8gGQg="/>
+     <rdf:li
+      darktable:num="4"
+      darktable:operation="crop"
+      darktable:enabled="1"
+      darktable:modversion="1"
+      darktable:params="00000000b458523d0000803f64996d3f0100000001000000"
       darktable:multi_name=""
       darktable:multi_priority="0"
       darktable:blendop_version="11"

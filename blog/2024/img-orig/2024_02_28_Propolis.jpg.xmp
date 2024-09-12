@@ -10,16 +10,16 @@
    xmp:Rating="1"
    xmpMM:DerivedFrom="2024_02_28_Propolis.jpg"
    darktable:import_timestamp="63861767177772768"
-   darktable:change_timestamp="-1"
-   darktable:export_timestamp="63861767404462389"
+   darktable:change_timestamp="63861768320909661"
+   darktable:export_timestamp="63861768496792642"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1"
-   darktable:history_end="4"
+   darktable:history_end="5"
    darktable:iop_order_version="2"
    darktable:history_basic_hash="c80077d119ae746632f44df3493dfd64"
-   darktable:history_current_hash="c80077d119ae746632f44df3493dfd64">
+   darktable:history_current_hash="450aaec03a617b2f1f7b392c5c97f914">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -61,6 +61,16 @@
       darktable:enabled="1"
       darktable:modversion="2"
       darktable:params="ffffffff"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="11"
+      darktable:blendop_params="gz14eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfNoAAE8gGQg="/>
+     <rdf:li
+      darktable:num="4"
+      darktable:operation="crop"
+      darktable:enabled="1"
+      darktable:modversion="1"
+      darktable:params="0c16463ee4e26f3dc746573faebe6b3f0100000001000000"
       darktable:multi_name=""
       darktable:multi_priority="0"
       darktable:blendop_version="11"

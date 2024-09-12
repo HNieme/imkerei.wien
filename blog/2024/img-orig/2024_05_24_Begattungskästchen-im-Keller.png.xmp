@@ -10,16 +10,16 @@
    xmp:Rating="1"
    xmpMM:DerivedFrom="2024_05_24_Begattungskästchen-im-Keller.png"
    darktable:import_timestamp="63861767177802606"
-   darktable:change_timestamp="-1"
-   darktable:export_timestamp="63861767402463399"
+   darktable:change_timestamp="63861768268806109"
+   darktable:export_timestamp="63861768495669355"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1"
-   darktable:history_end="4"
+   darktable:history_end="5"
    darktable:iop_order_version="2"
    darktable:history_basic_hash="adf93e2c7aefb698a6ff153e3fa7f0b8"
-   darktable:history_current_hash="adf93e2c7aefb698a6ff153e3fa7f0b8">
+   darktable:history_current_hash="a75ed5ddcc8041b51b0af4f8a315cf3b">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -61,6 +61,16 @@
       darktable:enabled="1"
       darktable:modversion="2"
       darktable:params="ffffffff"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="11"
+      darktable:blendop_params="gz14eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfNoAAE8gGQg="/>
+     <rdf:li
+      darktable:num="4"
+      darktable:operation="crop"
+      darktable:enabled="1"
+      darktable:modversion="1"
+      darktable:params="61b2d03dde5b253395b52e3fffff7f3f0100000001000000"
       darktable:multi_name=""
       darktable:multi_priority="0"
       darktable:blendop_version="11"
