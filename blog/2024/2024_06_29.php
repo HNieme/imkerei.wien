@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="29.06"><a href="#29.06" >29. Juni - </a></h3>
+					<h3 id="29.06"><a href="#29.06" >29. Juni - Ups, da wohnt jetzt wer! </a></h3>
 					<p>
 					    <br /><br />
 					    Wenn man als Imker einen Anruf bekommt, dass da ein Schwarm im Baum hängt, dann heißt es schnell handeln.<br />
