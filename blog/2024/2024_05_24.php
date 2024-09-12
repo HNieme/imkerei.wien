@@ -6,5 +6,5 @@
 					    <br /><br />
 					    Dann kamen alle Begattungskästchen für drei Tage in den Keller. Ich bin jedes Mal erstaunt wie laut Bienen summen können!
 					    <br /><br />
-					    <img src="img/2024_05_24_Begattungskästchen-im-Keller.png" alt="Begattungskästchen im Keller"  class="img-fullwidth">
+					    <img src="img/2024_05_24_Begattungskästchen-im-Keller.jpg" alt="Begattungskästchen im Keller"  class="img-fullwidth">
 					</p>
