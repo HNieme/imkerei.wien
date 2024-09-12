@@ -2,7 +2,7 @@
 			include "../../assets/template/head/head.php";
 		?>
 					<h1>2024</h1>
-					<img src="img/header-beuten-small.jpg" alt="Drei Bienenstöcke"  class="img-fullwidth">
+					<img src="img/2024_08_05_Biene-auf-Heidekraut-2.jpg" alt="Biene auf Heidekraut"  class="img-fullwidth">
 					<?php
                         include "2024_01_05.php";
                         include "2024_01_10.php";
