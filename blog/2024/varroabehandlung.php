@@ -27,5 +27,5 @@
 					    Über die dritte Behandlung im Winter berichte ich dann im Dezember!
 
 					    <br /><br />
-					    <img src="img/varroabehandlung.php" alt="Bienenvölker mit Ameisensäure-Verdunstern darauf"  class="img-fullwidth">
+					    <img src="img/Varroabehandlung.jpeg" alt="Bienenvölker mit Ameisensäure-Verdunstern darauf"  class="img-fullwidth">
 					</p>
