@@ -7,7 +7,7 @@
 				So kannst du mich erreichen:
 				<ul class="wide-ul">
 					<li>
-						E-Mail: <a href="mailto:kontakt@imkerei.wien">kontakt@imkerei.wien</a> (Verschlüsselung via <a href="https://niemeczek.at/GnuPG/">GPG</a> möglich.)
+						E-Mail: <a href="mailto:kontakt@imkerei.wien">kontakt@imkerei.wien</a> <!--(Verschlüsselung via <a href="https://niemeczek.at/GnuPG/">GPG</a> möglich.)-->
 					</li>
 					<li>
 						Telefon: <a href="tel:+4367761208583">+43 677 61208583</a> - Please respect that I live in Europe and really like undisturbed sleep during the night and early morning.
@@ -15,16 +15,16 @@
 					<li>
 						Signal: <a href="tel:+4367761208583">+43 677 61208583</a>
 					</li>
-					<li>
+<!--				<li>
 						XMPP/Jabber: <a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>, OMEMO-schlüssel siehe unten
-					</li>
+					</li>-->
 					<li>
 						<a href="https://twitter.com/HNieme" target="_blank">Twitter</a> (rarely visited!)
 					</li>
 				</ul>
 				<br /><br /><br /><br />
 			</p>
-			<h2>GPG-Schlüssel:</h2>
+<!--			<h2>GPG-Schlüssel:</h2>
 			<p>
 				<a href="https://niemeczek.at/GnuPG">Was ist PGP?</a>
 				<br /><br />
@@ -54,7 +54,7 @@
 				<br />
 				(for <a href="xmpp:postmaster@niemeczek.at">postmaster@niemeczek.at</a>)
 				<br /><br />
-			</p>
+			</p>-->
 		<?php 
 			include "../assets/template/footer/footer.php";
 		?>
