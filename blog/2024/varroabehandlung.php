@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="29.06"><a href="#29.06" >29. Juni -  </a></h3>
+					<h3 id="29.06"><a href="#29.06" >Varroabehandlung</a></h3>
 					<p>
 					    <br /><br />
 					    Seit in den 70ern die Varroamilbe in Österreich eingeschleppt wurde, müssen wir Imker unsere

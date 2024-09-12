@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="29.06"><a href="#29.06" >29. Juni -  </a></h3>
+					<h3 id="29.06"><a href="#29.06" >29. Juni - Imker auf Reisen</a></h3>
 					<p>
 					    <br /><br />
 					    Wo die Bienen stehen hat bekanntlich großen Einfluss auf den geernteten Honig. In Wien wird der Honig beispielsweise vom Geschmack der Lindenblüten dominiert, deren Abblühen das Ende der Honigsaison bedeutet und uns Imkern mehr als ausreichend Zeit für die Wintervorbereitungen gibt.
