@@ -374,3 +374,113 @@ article aside {
 }
 
 
+/* HoneyMat Style Infos */
+
+        #orderForm > input#submitBtn  {
+            background-color: rgba(255, 155, 6, .5);
+            width: 100%;
+            border: 1px solid rgba(255, 155, 6, 1);
+            font-size: 1.1em;
+            color: rgba(48,48,45,1);
+            border-radius: 2px;
+        }
+        #orderForm > .quantity-control {
+            width: 40%;
+            float: right;
+
+        }
+        #orderForm > input {
+            float: left;
+            color: red;
+        }
+
+        #orderForm .inDecBtn {
+            color: rgba(48,48,45,1);
+            background-color: rgba(255, 155, 6, .5);
+            border: 1px solid rgba(255, 155, 6, .6);
+            width: 1.5em;
+            height: 1.5em;
+            padding-bottom: 5px;
+            border-radius: .75em;
+            font-size: 20px;
+            float: left;
+        }
+        #orderForm > input#submitBtn:disabled  {
+            background-color: rgba(48,48,45,0.3);
+            border-color: rgba(48,48,45,.5);
+        }
+        #orderForm > input:focus  {
+            border: 1px solid rgba(255, 155, 6, .6);
+            border-radius: 3px;
+            outline-offset: 1px;
+            outline: 1.5px solid rgba(255, 155, 6, .3);
+        }
+        #orderForm > input#submitBtn:active  {
+            background-color: rgba(255, 155, 6, .8);
+        }
+        #orderForm > input#submitBtn:active  {
+            background-color: rgba(255, 155, 6, .8);
+            outline: 2px solid rgba(255, 155, 6, 1);
+            outline-offset: 2px;
+        }
+
+        #orderForm > label {
+            display: block;
+            width: 60%;
+            float: left;
+            color: rgba(48,48,45,1);;
+        }
+        #orderForm > label.productLabel {
+            margin-bottom: 1.7em;
+        }
+        #orderForm > label > span {
+            width: 100%;
+            display: block;
+        }
+
+
+        #orderForm > label > span.product {
+            color: rgba(255, 155, 6, .8);
+            font-size: 1.6em;
+        }
+         #orderForm > label > span.size {
+
+        }
+         #orderForm > label > span.amount {
+
+        }
+         #orderForm > label > span.price {
+
+        }
+
+
+        #orderForm > label#submitBtnEmptyOrder{
+             width: 100%;
+             color: rgba(255, 155, 6, 8);
+             margin-bottom: 10px;
+        }
+        .input-pcs {
+            width: 30%;
+            float: left;
+            active: false;
+            margin-left: 10px;
+            margin-right: 10px;
+            border: none;
+            text-align: center;
+            font-size: 1.5em;
+        }
+        form > img {
+            max-width: 10cm;
+
+        }
+        /* Hide up/down spin-buttons in input fields */
+        /* Chrome, Safari, Edge, Opera */
+        input[type=number]::-webkit-outer-spin-button,
+        input[type=number]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+           margin: 0;
+        }
+        /* Firefox */
+        input[type=number] {
+            -moz-appearance: textfield;
+        }

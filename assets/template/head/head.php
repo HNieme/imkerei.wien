@@ -42,7 +42,7 @@
 			<!-- Piwik -->
 		<noscript><p><img src="//statistics.niemeczek.at/piwik.php?idsite=8&rec=1" style="border:0;" alt="" /></p></noscript>
 		<!-- End Piwik Code -->
-			<nav>
+			<nav id="headernav">
 				<ul>
 					<li><a href="/anleitungen/">Bauanleitungen</a></li>
 					<li><a href="/blog/">Blog</a></li>

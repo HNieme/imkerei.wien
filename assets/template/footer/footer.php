@@ -56,7 +56,7 @@
 							</li>
 						</ul>
 					</div>
-					<div class="footer-link-collection">
+					<div class="footer-link-collection" id="footer_info">
 						<span>Info</span>
 						<ul>
 							<li>
