@@ -86,9 +86,19 @@
                     // Convert input values to integers
                     const honeyValue = parseInt(honey500.value);
                     const propolisValue = parseInt(propolis30.value);
+                    const honeyMin = parseInt(honey500.min);
+                    const propolisMin = parseInt(propolis30.min);
+                    const honeyMax = parseInt(honey500.max);
+                    const propolisMax = parseInt(propolis30.max);
+                    if (honeyValue > honeyMax) {
+                        honey500.value = honeyMax;
+                    }
+                    if (propolisValue > propolisMax) {
+                        propolis30.value = propolisMax;
+                    }
 
                     // Enable submit button if at least one value is greater than 0, otherwise disable
-                    if (honeyValue > 0 || propolisValue > 0) {
+                    if (honeyValue > honeyMin || propolisValue > propolisMin) {
                         submitBtn.disabled = false; // Enable submit button
                         submitBtnLabelEmptyOrder.style.display = "none";
 
@@ -114,10 +124,17 @@
                     const newValue = currentValue + step;
                     // Ensure the value stays within the min and max range
                     if (newValue >= min && newValue <= max) {
-
                         input.value = newValue;
-                        input.dispatchEvent(new Event('input')); // Dispatch input event
                     }
+                    input.dispatchEvent(new Event('input')); // Dispatch input event
+
+//                     } else if (currentValue > max) {
+//                         input.value = max;
+//                         input.dispatchEvent(new Event('input')); // Dispatch input event
+//                     } else if (currentValue < min) {
+//                         input.value = min;
+//                         input.dispatchEvent(new Event('input')); // Dispatch input event
+//                     }
                 }
 
                 // Get all quantity input fields
