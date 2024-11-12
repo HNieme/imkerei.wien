@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="varroabehandlung"><a href="#varroabehandlung" >Varroabehandlung</a></h3>
+					<h3 id="varroabehandlung"><a href="#varroabehandlung" >August/September - Varroabehandlung</a></h3>
 					<p>
 					    <br /><br />
 					    Seit in den 70ern die Varroamilbe in Österreich eingeschleppt wurde, müssen wir Imker unsere

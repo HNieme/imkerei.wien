@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="2024_10_20"><a href="#2024_10_20" >Mäuse unerwünscht!</a></h3>
+					<h3 id="2024_10_20"><a href="#2024_10_20" >20. Oktober - Mäuse unerwünscht!</a></h3>
 					<p>
                         Im Winter wird der Flugbetrieb eingestellt und die Bienen rücken zu einer dichten Kugel zusammen um sich gegenseitig zu wärmen.
 					    <br /><br />

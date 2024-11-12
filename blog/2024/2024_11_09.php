@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="2024_11_09"><a href="#2024_11_09" >Ein Glas flüssiges Gold</a></h3>
+					<h3 id="2024_11_09"><a href="#2024_11_09" >09. November - Ein Glas flüssiges Gold</a></h3>
 					<p>
                         Die Bienen sind fertig eingewintert, aber Arbeit gibt es trotzdem noch genug. Konkret ist jetzt die Zeit, in der sich Honig am Besten verkauft. Dafür muss der Honig aus dem 25kg-Kübel aber erstmal ins Glas - und das ist erstaunlich aufwändig:
                         <br /><br />
