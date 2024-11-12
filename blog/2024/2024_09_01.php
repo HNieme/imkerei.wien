@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="05.08."><a href="#05.08" >1. September - "Bekommen die Bienen eh keinen Zucker?"</a></h3>
+					<h3 id="2024_09_01"><a href="#2024_09_01" >1. September - "Bekommen die Bienen eh keinen Zucker?"</a></h3>
 					<p>
 					    Eine der häufigsten Fragen, die ich von Honig-Kunden gestellt bekomme ist, ob die Bienen eh keinen Zucker bekommen.
 					    <br /><br />

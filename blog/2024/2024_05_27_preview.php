@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#27.05">
+				<a class="preview" href="/blog/2024/#2024_05_27">
 					<img src="/blog/2024/img/2024_05_27_Begattungskästchen_preview.jpg" alt="Begattungskästchen">
 					<div>
 						<span class="preview-title">27. Mai - Achtung, Abflug!</span>

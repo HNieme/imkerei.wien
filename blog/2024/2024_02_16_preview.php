@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#16.02">
+				<a class="preview" href="/blog/2024/#2024_02_16">
 					<img src="/blog/2024/img/2024_02_16_Biene-auf-Schneerose-Detailaufnahme_preview.jpg" alt="Biene auf Schneerose">
 					<div>
 						<span class="preview-title">16. Februar - Ein geruhsamer Imker-Monat</span>

@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="29.02"><a href="#29.02" >29. Februar - Immer der Nase nach!</a></h3>
+					<h3 id="2024_02_29"><a href="#2024_02_29" >29. Februar - Immer der Nase nach!</a></h3>
 					<p>
 					    <br /><br />
 					    Eine Freundin und ich waren kürzlich am Ring-Radweg neben dem Stadtpark unterwegs.

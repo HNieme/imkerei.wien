@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="05.08."><a href="#05.08" >5. August - Imker auf Reisen</a></h3>
+					<h3 id="2024_08_05"><a href="#2024_08_05" >5. August - Imker auf Reisen</a></h3>
 					<p>
 					    <br /><br />
 					    Wo die Bienen stehen hat bekanntlich großen Einfluss auf den geernteten Honig. In Wien wird der Honig beispielsweise vom Geschmack der Lindenblüten dominiert, deren Abblühen das Ende der Honigsaison bedeutet und uns Imkern mehr als ausreichend Zeit für die Wintervorbereitungen gibt.

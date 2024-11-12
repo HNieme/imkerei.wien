@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#05.08">
+				<a class="preview" href="/blog/2024/#2024_11_09">
 					<img src="/blog/2024/img/2024_01_26_Honiggläser_preview.jpg" alt="Honiggläser">
 					<div>
 						<span class="preview-title">Ein Glas flüssiges Gold</span>

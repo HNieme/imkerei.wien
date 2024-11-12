@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#02.07">
+				<a class="preview" href="/blog/2024/#2024_07_02">
 					<img src="/blog/2024/img/2024_07_02_Ableger_preview.jpg" alt="Ableger mit vielen Bienen">
 					<div>
 						<span class="preview-title">2. Juli - Der erste Ableger ist da!</span>

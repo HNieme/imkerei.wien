@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#30.03">
+				<a class="preview" href="/blog/2024/#2024_03_30">
 					<img src="/blog/2024/img/2024_03_30_Laborbefund_preview.jpg" alt="Laborbefund">
 					<div>
 						<span class="preview-title">30. März - Frisch aus dem Briefkasten</span>

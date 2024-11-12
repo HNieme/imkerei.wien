@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#28.02">
+				<a class="preview" href="/blog/2024/#2024_02_28">
 					<img src="/blog/2024/img/2024_02_28_Glas-mit-Propolistropfen_preview.jpg" alt="Glas mit Propolistropfen-Ansatz">
 					<div>
 						<span class="preview-title">28. Februar - Propolistropfen</span>

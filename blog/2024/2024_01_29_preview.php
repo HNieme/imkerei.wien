@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#10.01">
+				<a class="preview" href="/blog/2024/#2024_01_29">
 					<img src="/blog/2024/img/2024_01_05_Bienenvölker-im-Winter_preview.jpg" alt="Bienenvölker im Winter">
 					<div>
 						<span class="preview-title">10. Jänner - AFB-Probenentnahme oder ein "Gurgel-Test" für Bienen</span>

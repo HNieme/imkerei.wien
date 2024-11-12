@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#29.03">
+				<a class="preview" href="/blog/2024/#2024_03_30">
 					<img src="/blog/2024/img/2024_03_29_Offenes-Bienenvolk_preview.jpg" alt="Offenes Bienenvolk">
 					<div>
 						<span class="preview-title">29. März - Mehr Wohnraum bitte!</span>

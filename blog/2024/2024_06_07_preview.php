@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#07.06">
+				<a class="preview" href="/blog/2024/#2024_06_07">
 					<img src="/blog/2024/img/2024_06_07_Lindenblüten_preview.jpg" alt="Intensiv blühende Linde">
 					<div>
 						<span class="preview-title">07. Juni - Es Lindet!</span>

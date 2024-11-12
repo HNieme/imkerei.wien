@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#24.05">
+				<a class="preview" href="/blog/2024/#2024_05_24">
 					<img src="/blog/2024/img/2024_05_24_Begattungskästchen-im-Keller_preview.jpg" alt="Begattungskästchen">
 					<div>
 						<span class="preview-title">24. Mai - Imposantes Summen</span>

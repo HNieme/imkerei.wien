@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="28.02"><a href="#28.02" >28. Februar - Propolistropfen</a></h3>
+					<h3 id="2024_02_28"><a href="#2024_02_28" >28. Februar - Propolistropfen</a></h3>
 					<p>
 					    <br /><br />
 					    Die Propolis-Ernte des letzten Jahres will zu Propolis-Tropfen verarbeitet werden:

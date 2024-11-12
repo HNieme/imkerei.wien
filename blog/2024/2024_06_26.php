@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="26.06"><a href="#26.06" >26. Juli - Bienen von Rubicon IT</a></h3>
+					<h3 id="2024_06_26"><a href="#2024_06_26" >26. Juli - Bienen von Rubicon IT</a></h3>
 					<p>
 					    <br /><br />
 					    Die Firma Rubicon IT kümmert sich um den Bienenbestand und stellt mir zwecks Vermehrung desselben zwei Bienenvölker zur Verfügung! Danke dafür!

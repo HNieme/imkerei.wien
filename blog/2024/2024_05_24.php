@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="24.05"><a href="#24.05" >24. Mai - Imposantes Summen</a></h3>
+					<h3 id="2024_05_24"><a href="#2024_05_24" >24. Mai - Imposantes Summen</a></h3>
 					<p>
 					    <br /><br />
 					    Nachdem die Königinnen geschlüpft sind, kam jede von Ihnen mit etwa 200ml Bienen aus dem Ableger in ein Begattungskästchen. Die Menge von Bienen in Millilitern anzugeben klingt seltsam, aber tatsächlich lassen sich die Bienen, wenn sie nass gesprüht wurden mit einem Messbecher in Millilitern abmessen.

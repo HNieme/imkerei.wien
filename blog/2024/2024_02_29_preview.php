@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#29.02">
+				<a class="preview" href="/blog/2024/#2024_02_29">
 					<img src="/blog/2024/img/2024_02_29_Biene-auf-Winter-Heckenkirsche-4_preview.jpg" alt="Biene auf Winter-Heckenkirsch-Blüte">
 					<div>
 						<span class="preview-title">29. Februar - Immer der Nase nach!</span>

@@ -1,4 +1,4 @@
-				<a class="preview" href="/blog/2024/#16.05">
+				<a class="preview" href="/blog/2024/#2024_05_16">
 					<img src="/blog/2024/img/2024_05_16_Weiselrähmchen_preview.jpg" alt="Weiselrähmchen">
 					<div>
 						<span class="preview-title">16. Mai - Neue Königinnen im Anflug!</span>

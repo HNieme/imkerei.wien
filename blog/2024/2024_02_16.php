@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="16.02"><a href="#16.02" >16. Februar - Ein geruhsamer Imker-Monat</a></h3>
+					<h3 id="2024_02_16"><a href="#2024_02_16" >16. Februar - Ein geruhsamer Imker-Monat</a></h3>
 					<p>
 					    <br /><br />
 					    Für mich ist der Februar immer einer der entspanntesten Monate im Imker-Jahr. Es ist noch zu kalt um nachzusehen wie es den Bienen geht (Ende März/Anfang April steht das meist am Plan), aber die Vorfreude ist definitiv schon da.

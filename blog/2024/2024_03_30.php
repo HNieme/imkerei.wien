@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="30.03"><a href="#30.03" >30. März - Frisch aus dem Briefkasten</a></h3>
+					<h3 id="2024_03_30"><a href="#2024_03_30" >30. März - Frisch aus dem Briefkasten</a></h3>
 					<p>
 					    <br /><br />
 					    Frisch aus dem Briefkasten:<br />

@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="27.05"><a href="#27.05" >27. Mai - Achtung, Abflug!</a></h3>
+					<h3 id="2024_05_27"><a href="#2024_05_27" >27. Mai - Achtung, Abflug!</a></h3>
 					<p>
 					    <br /><br />
 					    Nach drei Tagen im Keller dürfen die Bienen endlich wieder fliegen - An einem anderen Standplatz aufgestellt werden die Damen die nächsten zwei Wochen verbringen. Danach legen hoffentlich alle Königinnen Eier und dürfen in einen größeren Ableger umziehen :)

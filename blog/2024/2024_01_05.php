@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="05.01"><a href="#05.01" >5. Jänner - Erster Besuch bei den Bienen</a></h3>
+					<h3 id="2024_01_05"><a href="#2024_01_05" >5. Jänner - Erster Besuch bei den Bienen</a></h3>
 					<p>
                         Ich glaube jeder Imker und jede Imkerin kennt das: "Ich fahr nur schnell zu den Bienen!"
                         <br /><br />

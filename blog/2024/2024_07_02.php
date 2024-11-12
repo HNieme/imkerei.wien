@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="02.07"><a href="#02.07" >2. Juli - Der erste Ableger ist da!</a></h3>
+					<h3 id="2024_07_02"><a href="#2024_07_02" >2. Juli - Der erste Ableger ist da!</a></h3>
 					<p>
 					    <br /><br />
                         Der erste Ableger ist angekommen - Ein kräftiger 5-Waben Ableger aus einer Bio-Imkerei, der sich in seinem neuen Zuhause sicher wohlfühlen wird. Erstmal lasse ich die Bienen sich an ihre neue Wohnung gewöhnen und den Stress der Übersiedelung verdauen. In den nächsten Tagen wird vermutlich auch der zweite Ableger ankommen, danach gibt es die erste Ration Futter :)
