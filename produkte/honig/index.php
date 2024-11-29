@@ -1,37 +1,66 @@
 		<?php 
 			include "../../assets/template/head/head.php";
 		?>
-			<img src="img/flugbrett.jpg" alt="Bienen am Flugbrett"  class="img-fullwidth">
+			<img src="img/Honig-250g-Quellenstraße.jpg" alt=""  class="img-fullwidth">
 			<p><br /><br /></p>
 			<h1>Honig</h1>
 			<p>
-				Nach über einem Jahr arbeiten und warten war es endlich so weit - Die Bienen waren fertig mit ihrer Arbeit, der Honig reif und verdeckelt. Es konnte geschleudert werden! 
-				Nach einem ganzen Tag des Waben-ernten und Schleuderns hatte ich vier Kübeln mit insgesamt 70 kg köstlichem Honig! Und weil ich allein nicht so viel essen kann (obwohl ich gerne würde) gibt es den jetzt zu kaufen!
+				2024 war ein außergewöhnlich gutes Bienenjahr - der warme Frühling führte zu sehr früh entwickelten Völkern. Die Pflanzen der Umgebung waren gut mit Wasser versorgt und stellten damit eine hervorragende Nektarquelle dar. So kam es zur besten Honigernte bisher!
 				<br />
 				<br />
 				
 			</p>
 			<h2>Woher genau kommt der Honig? Von welchen Pflanzen ist er?</h2>
 			<p>
-				Meine Bienen standen das ganze Jahr am Vereinsbienenstand am Wiener Zentralfriedhof in der Nähe von Tor 11. 
+				Meine Bienen standen das ganze Jahr im "Stadtwäldchen" nur wenige Meter entfernt von der U6 Station Am Schöpfwerk.
 				<br />
 				<br />
-				Dort haben sie das ganze Jahr von all den blühenden Pflanzen in einem Radius von etwa 3 km (so weit fliegen Bienen) Nektar gesammelt. Daher habe ich auch keinen Sortenhonig, sondern eine Mischung von allem, was dort so blüht. Das sind besonders Linden, die heuer lange und intensiv blühten, Ross-Kastanien, Robinien ("Akazien"), Sonnenblumen sowie viele andere Pflanzen. Vielleicht ist aber auch etwas Waldhonig dabei?
+				In der Umgebung sorgen im Frühjahr <a href="https://de.wikipedia.org/wiki/Kriecherl">Kriacherl</a> und diverse andere Obstbäume für den ersten gesammelten Honig. Später blühen unter anderem in der Oswaldgasse eine ganze Allee Ross-Kastanien sowie im angrenzenden Miep-Gies-Park Linden, Robinien ("Akazien") sowie ein Götterbaum im Stadtwäldchen.
 				<br />
 				<br />
-				Die meisten Menschen attestieren meinem Honig einen sehr guten, leicht zitronigen Geschmack - Ich finde, er schmeckt einfach herrlich!
+				So entsteht ein aromatischer, herrlich schmeckender Honig, der bald als ein Glas süßes Gold den Weg zu dir nach Hause finden könnte :)
 			</p>
-			<h2>Verpackung und Etiketten</h2>
+			<h2>Preise</h2>
 			<p>
-			Ich verkaufe meinen Honig mit zwei verschiedenen Etiketten. Zunächst gibt es da das Standard-Etikett mit Bienen, die Blüten besuchen.
+			Der Honig ist in 500g, 250g und 45g Gläsern erhältlich
 			</p>
-			<img src="img/flugbrett.jpg" alt="Glas Honig mit Standard-Etikett, mit Bienen, die Blüten besuchen"  class="img-fullwidth">
+			<img src="img/2024_01_26_Honiggl%C3%A4ser.jpg" alt=""  class="img-fullwidth">
+			<table>
+			    <thead>
+			        <tr>
+			            <td>Menge</td>
+			            <td>&gt;100 Gläser</td>
+			            <td>&gt;50 Gläser</td>
+			            <td>&gt;15 Gläser</td>
+			            <td>1-15 Gläser</td>
+			        </tr>
+			    <thead>
+			    <tbody>
+			        <tr>
+			            <td>500g</td>
+			            <td>8,00 €</td>
+			            <td>8,50 €</td>
+			            <td>9,00 €</td>
+			            <td>9,50 €</td>
+			        </tr>
+			        <tr>
+			            <td>250g</td>
+			            <td>4,50 €</td>
+			            <td>5,00 €</td>
+			            <td>5,35 €</td>
+			            <td>5,50 €</td>
+			        </tr>
+			        <tr>
+			            <td>45g</td>
+			            <td>2,50 €</td>
+			            <td>2,50 €</td>
+			            <td>2,75€</td>
+			            <td>3,00 €</td>
+			        </tr>
+			    </tbody>
+			</table>
 			<p>
-			Für alle, die es etwas ausgefallener wollen (oder für Halloween passenden Honig) gibt es auch eine (zugegeben etwas makabere) Zentralfriedhof-Edition.
-			</p>
-			<img src="img/flugbrett.jpg" alt="Glas Honig mit Zentralfriedhof-Etikett"  class="img-fullwidth">
-			<p>
-			Das Glas gibt es um 8€ + 0,50€ Pfand (= 8,50€).
+
 			<br />
 			Außerdem habe ich noch <a href="../wabenhonig/" >Wabenhonig</a>!
 			</p>
