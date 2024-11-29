@@ -26,6 +26,7 @@
 			<br /><br />
 			</p>
 			<img src="img/2024_01_26_Honiggl%C3%A4ser.jpg" alt=""  class="img-fullwidth">
+			<p><br /><br /><br /></p>
 			<table>
 			        <tr>
 			            <th>Menge</th>
@@ -60,6 +61,7 @@
 
 			<br />
 			Außerdem habe ich noch <a href="../wabenhonig/" >Wabenhonig</a>!
+			<br /><br /><br /><br /><br />
 			</p>
 
 	

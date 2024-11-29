@@ -8,13 +8,13 @@
 			</p>
 			<h1>Wabenhonig</h1>
 			<p>
-				Als Wabenhonig werden mit Honig gefüllte Stücke von Bienenwaben bezeichnet. Honig in Gläsern durch Schleudern aus den Bienenwaben extrahiert. Bei Wabenhonig geschieht dies nicht, es wird die gesamte Wabe gegessen - Ein außergewöhnliches Genusserlebnis! 
+				Als Wabenhonig werden mit Honig gefüllte Stücke von Bienenwaben bezeichnet. Honig in Gläsern wird durch Schleudern aus den Bienenwaben extrahiert. Bei Wabenhonig geschieht dies nicht, es wird die gesamte Wabe gegessen - Ein außergewöhnliches Genusserlebnis!
 				<br />
 				<br />
-				Ich esse Wabenhonig beispielsweise gerne zum Frühstück oder nasche ihn einfach mal zwischendurch. Das Wachs kann dabei mitgegessen werden oder einfach nur gekaut und dann ausgespuckt werden. Außerdem kann man Wabenhonig auch, wie normalen Honig, aufs Brot streichen.
+				Ich esse Wabenhonig beispielsweise gerne zum Frühstück oder nasche ihn einfach mal zwischendurch. Das Wachs kann dabei mitgegessen werden oder einfach nur gekaut und dann ausgespuckt werden. Außerdem kann man Wabenhonig, wie normalen Honig auch, aufs Brot streichen.
 				<br />
 				<br />
-				Heuer gibt es zwei Varianten: Als Stück aus einer großen Wabe geschnitten oder von Bienen direkt in den Rahmen gebaut.
+				Ich produziere Wabenhonig in zwei Varianten: Als Stück aus einer großen Wabe geschnitten oder von Bienen direkt in den Rahmen gebaut.
 				<br />
 				<br />
 			</p>
@@ -26,6 +26,8 @@
 				Vollständig verdeckelte Zellen, aus der Fühjahrstracht. 
 				<br />
 				Erhältlich auf Anfrage, 3,50€/100g
+				<br />
+				<b>Bitte um Vorbestellung per E-Mail bis Anfang April - Der Wabenhonig ist je nach Wetter etwa im Juni fertig!</b> Spätere Bestellungen sind je nach Verfügbarkeit auch möglich - Bitte ggf. einfach anfragen!
 				<br />
 				<br />
 			</p>
@@ -39,6 +41,8 @@
 				Dort beginnen die Bienen damit, Waben zu bauen und Honig einzulagern. Erst wenn alle Zellen vollständig verdeckelt sind können die Rähmchen entnommen, gewogen und verpackt werden. 
 				<br /><br />
 				Erhältlich auf Anfrage, 5,00€/Stück.
+				<b>Bitte um Vorbestellung per E-Mail bis Anfang April - Der Wabenhonig ist je nach Wetter etwa im Juni fertig!</b>
+
 			</p>
 		<?php 
 			include "../../assets/template/footer/footer.php";
