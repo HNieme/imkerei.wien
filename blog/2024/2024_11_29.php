@@ -1,5 +1,5 @@
 					<p><br /><br /></p>
-					<h3 id="29_11_29"><a href="#2024_11_29" >29. November - Adventkranz mit Bienenwachs-Kerzen</a></h3>
+					<h3 id="2024_11_29"><a href="#2024_11_29" >29. November - Adventkranz mit Bienenwachs-Kerzen</a></h3>
 					<p>
 					    <br /><br />
 					    Uns ist ein bisschen Reisig übrig geblieben, mit dem sich ein weiterer Adventkranz ausging.<br />
