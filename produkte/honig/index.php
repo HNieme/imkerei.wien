@@ -15,7 +15,7 @@
 				Meine Bienen standen das ganze Jahr im "Stadtwäldchen" nur wenige Meter entfernt von der U6 Station Am Schöpfwerk.
 				<br />
 				<br />
-				In der Umgebung sorgen im Frühjahr <a href="https://de.wikipedia.org/wiki/Kriecherl">Kriacherl</a> und diverse andere Obstbäume für den ersten gesammelten Honig. Später blühen unter anderem in der Oswaldgasse eine ganze Allee Ross-Kastanien sowie im angrenzenden Miep-Gies-Park Linden, Robinien ("Akazien") sowie ein Götterbaum im Stadtwäldchen.
+				In der Umgebung sorgen im Frühjahr <a href="https://de.wikipedia.org/wiki/Kriecherl">Kriacherl</a> und diverse andere Obstbäume für den ersten gesammelten Honig. Später blühen unter anderem in der Oswaldgasse eine ganze Allee Ross-Kastanien sowie im angrenzenden Miep-Gies-Park Linden, Robinien ("Akazien") sowie ein Götterbaum im Stadtwäldchen. Zusätzlich sorgen auch die Gärten und Balkone der Umgebung für willkommene Abwechslung - Vielleicht hat ja auch schon an deinem Balkon eine Biene genascht?
 				<br />
 				<br />
 				So entsteht ein aromatischer, herrlich schmeckender Honig, der bald als ein Glas süßes Gold den Weg zu dir nach Hause finden könnte :)
