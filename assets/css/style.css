@@ -373,6 +373,19 @@ article aside {
 	}
 }
 
+table, th, td {
+  border: 1px rgb(48, 48, 45) solid;
+  border-collapse: collapse;
+}
+td, th {
+  padding: 10px;
+}
+td {
+  text-align: center;
+}
+th {
+  font-weight: bold;
+}
 
 /* HoneyMat Style Infos */
 

@@ -22,40 +22,41 @@
 			</p>
 			<h2>Preise</h2>
 			<p>
-			Der Honig ist in 500g, 250g und 45g Gläsern erhältlich
+			Der Honig ist in 500g, 250g und 45g Gläsern erhältlich.
+			<br /><br />
 			</p>
 			<img src="img/2024_01_26_Honiggl%C3%A4ser.jpg" alt=""  class="img-fullwidth">
 			<table>
 			    <thead>
 			        <tr>
-			            <td>Menge</td>
-			            <td>&gt;100 Gläser</td>
-			            <td>&gt;50 Gläser</td>
-			            <td>&gt;15 Gläser</td>
-			            <td>1-15 Gläser</td>
+			            <th>Menge</th>
+			            <td>&gt;100 Gläser</th>
+			            <th>&gt;50 Gläser</th>
+			            <th>&gt;15 Gläser</th>
+			            <th>1-15 Gläser</th>
 			        </tr>
 			    <thead>
 			    <tbody>
 			        <tr>
-			            <td>500g</td>
+			            <th>500g</th>
 			            <td>8,00 €</td>
 			            <td>8,50 €</td>
 			            <td>9,00 €</td>
 			            <td>9,50 €</td>
 			        </tr>
 			        <tr>
-			            <td>250g</td>
+			            <th>250g</th>
 			            <td>4,50 €</td>
 			            <td>5,00 €</td>
 			            <td>5,35 €</td>
 			            <td>5,50 €</td>
 			        </tr>
 			        <tr>
-			            <td>45g</td>
+			            <th>45g</th>
 			            <td>2,50 €</td>
 			            <td>2,50 €</td>
 			            <td>2,75€</td>
-			            <td>3,00 €</td>
+			            <td>3,00 €</th>
 			        </tr>
 			    </tbody>
 			</table>
