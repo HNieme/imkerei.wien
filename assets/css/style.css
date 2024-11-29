@@ -373,9 +373,10 @@ article aside {
 	}
 }
 
+/* Tables */
 table, th, td {
   border: 1px rgb(48, 48, 45) solid;
-  border-collapse: collapse;
+
 }
 td, th {
   padding: 10px;
