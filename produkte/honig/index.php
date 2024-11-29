@@ -27,16 +27,13 @@
 			</p>
 			<img src="img/2024_01_26_Honiggl%C3%A4ser.jpg" alt=""  class="img-fullwidth">
 			<table>
-			    <thead>
 			        <tr>
 			            <th>Menge</th>
-			            <td>&gt;100 Gläser</th>
+			            <th>&gt;100 Gläser</th>
 			            <th>&gt;50 Gläser</th>
 			            <th>&gt;15 Gläser</th>
 			            <th>1-15 Gläser</th>
 			        </tr>
-			    <thead>
-			    <tbody>
 			        <tr>
 			            <th>500g</th>
 			            <td>8,00 €</td>
@@ -56,9 +53,8 @@
 			            <td>2,50 €</td>
 			            <td>2,50 €</td>
 			            <td>2,75€</td>
-			            <td>3,00 €</th>
+			            <td>3,00 €</td>
 			        </tr>
-			    </tbody>
 			</table>
 			<p>
 
