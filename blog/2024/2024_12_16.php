@@ -1,6 +1,7 @@
 					<p><br /><br /></p>
 					<h3 id="2024_12_16"><a href="#2024_12_16">16. Dezember - Gepanschter Honig?!</a></h3>
 					<p>
+					    <br /><br />
 					    Unter Imkern ist es schon länger bekannt, der breiten Öffentlichkeit jedoch nicht: Wo Honig draufsteht, ist oft kein echter Honig drin.
 					    <br /><br />
 					    Dies zeigt in der Vorweihnachtszeit wieder einmal ein Bericht des ORF (<a href="https://help.orf.at/stories/3228083/">Gepanschter Honig auch in Österreich?</a>)
