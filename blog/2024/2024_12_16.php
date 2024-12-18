@@ -14,5 +14,6 @@
 					    (<a href="https://on.orf.at/video/14255583/15781184/honig-test-die-ergebnisse-konkret-vom-16122024">Konkret</a>)
 
 					    Wer den Imker dann noch persönlich kennt und die Bienen bei ihrer Arbeit beobachten kann, der kann sich sicher sein: 100% Honig, 100% echt, 100% köstlich!
+					    <br /><br />
 					    <img src="img/2024_12_16_Fake-Honey.png" alt="Fake Honey (KI generiert)"  class="img-fullwidth">
 					</p>
