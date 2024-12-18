@@ -9,7 +9,7 @@
 					    Fazit der Recherche: 75% der untersuchten Honige dürften eigentlich gar nicht als Honig verkauft werden.
 					    <br /><br />
                         Und:<br />
-					    "Was wir [...] daraus lernen, ist, dass wir uns auf österreichischen Honig verlassen können,
+					    "Was wir noch daraus lernen, ist, dass wir uns auf österreichischen Honig verlassen können,
 					    nämlich Honig, der von österreichischen Imkern produziert wurde."
 					    (<a href="https://on.orf.at/video/14255583/15781184/honig-test-die-ergebnisse-konkret-vom-16122024">Konkret</a>)
 
