@@ -51,7 +51,7 @@
 			</nav>
 			<form class="newsletter-form" method="post" action="https://listmonk.niemeczek.at/subscription/form" class="listmonk-form">
             <div>
-                <img src="file:///mnt/DATA/KEEP/Imkerei/Webseite/imkerei.wien/assets/img/newsletter.png">
+                <img src="assets/img/newsletter.png">
                 <h3>Newsletter abonnieren</h3>
                 <input type="hidden" name="nonce">
                 <p>
