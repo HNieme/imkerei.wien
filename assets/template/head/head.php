@@ -49,4 +49,25 @@
 					<li><a href="/produkte/">Produkte</a></li>
 				</ul>
 			</nav>
+			<form class="newsletter-form" method="post" action="https://listmonk.niemeczek.at/subscription/form" class="listmonk-form">
+            <div>
+                <img src="file:///mnt/DATA/KEEP/Imkerei/Webseite/imkerei.wien/assets/img/newsletter.png">
+                <h3>Newsletter abonnieren</h3>
+                <input type="hidden" name="nonce">
+                <p>
+                    <input name="name" placeholder="Name (optional)" style="width: 100%; overflow: auto" type="text">
+                </p>
+                <p>
+                    <input type="email" name="email" required="" placeholder="E-mail">
+                </p>
+
+
+                <p style="display:none;">
+                  <input id="243e3" type="checkbox" name="l" checked="" value="243e382e-e215-47a8-8223-c80a15858f29">
+                  <label for="243e3">imkerei.wien</label>
+                </p>
+
+                <input id="subscribeBtn" type="submit" value="Anmelden">
+              </div>
+            </form>
 			<article>
