@@ -49,11 +49,13 @@
 					<li><a href="/produkte/">Produkte</a></li>
 				</ul>
 			</nav>
+			<div id="newsletter-outer">
 			<form class="newsletter-form" method="post" action="https://listmonk.niemeczek.at/subscription/form" class="listmonk-form">
                 <div>
                     <img src="assets/img/newsletter.png">
                     <div>
                         <h3>Newsletter abonnieren</h3>
+                        <p>Erhalte aktuelle Infos über die Bienen direkt in dein E-Mail Postfach! </br>Durchschnittlich ein Mail pro Monat.</p>
                         <input type="hidden" name="nonce">
                         <p>
                             <input name="name" placeholder="Name (optional)" style="width: 100%; overflow: auto" type="text">
@@ -72,4 +74,5 @@
                     </div>
                 </div>
             </form>
+            </div>
 			<article>
