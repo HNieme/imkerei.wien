@@ -50,29 +50,27 @@
 				</ul>
 			</nav>
 			<div id="newsletter-outer">
-			<form class="newsletter-form" method="post" action="https://listmonk.niemeczek.at/subscription/form" class="listmonk-form">
-                <div>
+			<form id="newsletter" method="post" action="https://listmonk.niemeczek.at/subscription/form" class="listmonk-form">
+                <div id="newsletter-description">
                     <img src="assets/img/newsletter.png">
-                    <div>
-                        <h3>Newsletter abonnieren</h3>
-                        <p>Erhalte aktuelle Infos über die Bienen direkt in dein E-Mail Postfach! </br>Durchschnittlich ein Mail pro Monat.</p>
-                        <input type="hidden" name="nonce">
-                        <p>
-                            <input name="name" placeholder="Name (optional)" style="width: 100%; overflow: auto" type="text">
-                        </p>
-                        <p>
-                            <input type="email" name="email" required="" placeholder="E-mail">
-                        </p>
-
-
-                        <p style="display:none;">
-                          <input id="243e3" type="checkbox" name="l" checked="" value="243e382e-e215-47a8-8223-c80a15858f29">
-                          <label for="243e3">imkerei.wien</label>
-                        </p>
-
-                        <input id="subscribeBtn" type="submit" value="Anmelden">
-                    </div>
+                    <h3>Newsletter abonnieren</h3>
+                    <p>Einblicke ins Bienen- und Imkerleben gibt es jetzt auch per Mail, etwa ein Mal pro Monat :)</p>
                 </div>
+                <div id="newsletter-form">
+                    <input type="hidden" name="nonce">
+                    <p>
+                        <input name="name" placeholder="Name (optional)" style="width: 100%; overflow: auto" type="text">
+                    </p>
+                    <p>
+                        <input type="email" name="email" required="" placeholder="E-mail">
+                    </p>
+                    <p style="display:none;">
+                      <input id="243e3" type="checkbox" name="l" checked="" value="243e382e-e215-47a8-8223-c80a15858f29">
+                      <label for="243e3">imkerei.wien</label>
+                    </p>
+
+                    <input id="subscribeBtn" type="submit" value="Anmelden">
+                    </div>
             </form>
             </div>
 			<article>
