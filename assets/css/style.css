@@ -355,29 +355,33 @@ article aside .wide-ul li {
 }
 .newsletter-form > div {
     background: rgba(255, 155, 6, .2);
+	border-radius: 3px;
     width: 100%;
     height: 100%;
     overflow: auto;
     padding: 1em;
 }
 
-.newsletter-form > p {
+.newsletter-form > div > div > p {
      margin: .5em;
-     width: 100%;
      overflow: auto;
+	float: left;
 }
-
-.newsletter-form > input#subscribeBtn {
-    border-radius: 4px;
+.newsletter-form > div > div > p > input {
+    padding: .2em;
+	  font-size: .9;
+}
+.newsletter-form > div > div > input#subscribeBtn {
+    padding: .2em;
     background-color: rgba(255, 155, 6, .5);
-    width: 100%;
     border: 1px solid rgba(255, 155, 6, 1);
-    font-size: 1.1em;
+    font-size: .9em;
     color: rgba(48,48,45,1);
     border-radius: 2px;
+	float: left;
 }
-.newsletter-form > img {
-    width: 10em;
+.newsletter-form > div > img {
+    width: 30%;
     float: left;
 }
 
