@@ -51,9 +51,10 @@
 			</nav>
 			<div id="newsletter-outer">
 			<form id="newsletter" method="post" action="https://listmonk.niemeczek.at/subscription/form" class="listmonk-form">
+                <img src="/assets/img/newsletter.png"></img>
                 <div id="newsletter-description">
-                    <!-- <img src="assets/img/newsletter.png"> -->
-                    <span id="img-test" />
+
+
                     <h3>Newsletter abonnieren</h3>
                     <p>Einblicke ins Bienen- und Imkerleben gibt es jetzt auch per Mail, etwa ein Mal pro Monat :)</p>
                 </div>

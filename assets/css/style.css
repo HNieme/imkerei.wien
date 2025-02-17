@@ -408,12 +408,26 @@ article aside .wide-ul li {
     float: left;
 }
 #newsletter > #newsletter-description {
-	/*border: 1px black solid; */
+	border: 1px red solid;
 	width: 70%;
 	overflow: auto;
 }
 
-@media only screen and (min-width:)
+#img-test {
+    width: 30%;
+    float: left;
+	height: 100%;
+	display: block;
+	background: url("/assets/img/newsletter.png") center center;
+	background-size: cover;
+	overflow: auto;
+border: 1px black solid;
+}
+
+@media only screen and (min-width:){
+
+
+}
 
 
 
