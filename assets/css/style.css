@@ -370,7 +370,7 @@ article aside .wide-ul li {
 }
 
 #newsletter > div > p {
-    margin: .5em;
+    margin-top: .5em;
     overflow: auto;
     float: left;
 }
@@ -408,7 +408,7 @@ article aside .wide-ul li {
     float: left;
 }
 #newsletter > #newsletter-description {
-	border: 1px red solid;
+
 	width: 70%;
 	overflow: auto;
 }
@@ -424,12 +424,42 @@ article aside .wide-ul li {
 border: 1px black solid;
 }
 
-@media only screen and (min-width:){
+@media only screen and (max-width: 520px){
+  #newsletter > #newsletter-form > p,
+	#newsletter > #newsletter-form > input#subscribeBtn {
+	   width: 100%;
+  }
+	#newsletter >img {
+		margin-top: 1.5em;
+	}
+}
+@media only screen and (max-width: 520px){
+	#newsletter >img {
+	  width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+	  margin-bottom: 0;
+	}
+	#newsletter > #newsletter-description {
+		width: 100%;
+		padding: 1.5em;
+		margin-top: -5px;
+		margin-bottom: 0;
+	}
 
+	#newsletter > #newsletter-form {
+		margin-top: -1em;
+	}
 
 }
 
-
+@media only screen and (min-width: 570px){
+  #newsletter > #newsletter-description {
+		margin-top: 1.2em;
+	}
+}
 
 
 article aside {
