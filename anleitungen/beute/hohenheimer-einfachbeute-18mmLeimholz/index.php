@@ -1,7 +1,7 @@
 		<?php 
 			include "../../../assets/template/head/head.php";
 		?>
-					<h1>Hohenheimer Einfachbeute, Zander und andere, beliebige Beutenmaße</h1>
+					<h1>Hohenheimer Einfachbeute, Zander und andere, beliebige Rähmchen- bzw. Beutenmaße</h1>
 					<aside>
 						<h3>Benötigtes Material</h3>
 						<ul style="margin: 10px 0 0 20px;">
@@ -22,14 +22,16 @@
 					<p>
 					    Dieser Bauplan ist in den Anfängen meiner Imkerei entstanden und basiert auf den Plänen der Hohenheimer Einfachbeute. Er ist mit der freien (und kostenlosen) Software <a href="http://www.freecadweb.org/" target="_blank">FreeCAD</a> konstruiert.
 					    <br /><br />
-					    Da ich keinen Zugang zu nennenswertem Holzwerkzeug habe ist der Plan darauf ausgelegt, mit minimalem Werkzeug hochqualitative Bienenbeuten bauen zu können (Akkuschrauber, Säge f. Holzbretter, Hammer, Cuttermesser, Lineal, Schleifpapier).
+					    Da ich keinen Zugang zu nennenswertem Holzwerkzeug habe ist der Plan darauf ausgelegt, mit minimalem Werkzeug hochqualitative Bienenbeuten bauen zu können (Akkuschrauber, Säge f. Holzbretter, Hammer, Cuttermesser, Lineal, Schleifpapier) - Es ist problemlos möglich z.B. ohne Kreissäge die Beute zu bauen!
 					    Zwecks konstruktivem Holzschutz ist es sinnvoll, die Leisten unter den Griffen etwas abzuschrägen, beispielsweise mit einem Bandschleifer und die Griffe selbst ebenfalls etwas anzuschrägen.
 					    Ich habe außerdem eine Fräse verwendet, um die Sperrholzplatten im Deckel und in der Futtertasse zu montieren, prinzipiell lassen sich die Platten aber auch einfach antackern/nageln.
 					    <br /><br />
 						Das Holz lasse ich im Baumarkt zuschneiden, beispielsweise gibt es im Bauhaus kostenlosen Zuschnitt. Daher verwende ich die dort erhältlichen 18mm Leimholz-Platten (Der Originalbauplan ist für 20mm-Platten).
 						Beim warmen Klima in Wien ist dies kein Problem, wie sich das in anderen Landesteilen verhält weiß ich nicht.
 						<br /><br />
-						Hinweis: Beim Bauhaus in Wien (und vermutlich den meisten anderen Baumärkten) werden keine Leisten schmäler als 5cm zugeschnitten. Dies ist in den ursprünglichen Konstruktionszeichnungen nicht berücksichtigt, meine aktuelle Version nimmt darauf jedoch Rücksicht.
+						Hinweis: Beim Bauhaus in Wien (und vermutlich den meisten anderen Baumärkten) werden keine Leisten schmäler als 5cm zugeschnitten. Dies ist in den ursprünglichen Konstruktionszeichnungen von Pia Aumeier/der Uni Hohenheim nicht berücksichtigt, meine aktuelle Version nimmt darauf jedoch Rücksicht.
+						<br /><br />
+						In der neuen Konstruktionszeichnung gibt es in FreeCAD eine Tabelle, in der die Maße der Rähmchen, deren Anzahl pro Zarge sowie die Holzdicke eingetragen werden können. Wie genau steht weiter unten erklärt.
 						<br /><br />
 						<ul>
 							<li>Konstruktionszeichnung in FreeCAD, einfach modifizierbar für beliebige Beutensysteme: <a href="cad/Konstruktion-Hohenheimer-Einfachbeute-2025_03_01.fcstd">DOWNLOAD</a></li>
@@ -37,7 +39,7 @@
 							<li>Alt: Konstruktionszeichnung in FreeCAD f. Bauhaus: <a href="cad/Hohenheimer_Einfachbeute_Bauhaus_2018_05_31.fcstd">DOWNLOAD</a></li>
 						</ul>
 						<br /><br />
-						DOWNLOAD des Schnittplans (Nur für die alten Pläne):
+						DOWNLOAD des Schnittplans (Nur für die alten Pläne - Zander, 10 Rähmchen/Zarge, 18mm Holzstärke):
 						<ul>
 							<li>Standard: <a href="cad/Schnittplan.fcstd">[FreeCAD]</a>  <a href="cad/Schnittplan.pdf">[PDF]</a></li>
 							<li>Bauhaus: <a href="cad/Schnittplan_Hohenheimer_Einfachbeute_Bauhaus.fcstd">[FreeCAD]</a>  <a href="cad/Schnittplan_Hohenheimer_Einfachbeute_Bauhaus_4_Bretter.png">[Bild]</a></li>
@@ -54,21 +56,22 @@
 						<br />
 						<br /><br />
 						
-						Interaktive Ansicht im Browser (WebGL) - Nur für Geräte mit Maus, nicht für Touchbildschirme!: 
+						Interaktive Ansicht im Browser (WebGL)!:
 						<ul style="margin: 5px 0 10px 30px;">
 							<li><a href="Ansicht_Voll_2025.html">Neu: Ganze Beute</a></li>
 							<li><a href="Ansicht_Boden_2025.html">Neu: Boden</a></li>
 							<li><a href="Ansicht_Zarge_2025.html">Neu: Zarge</a></li>
 							<li><a href="Ansicht_Futterzarge_2025.html">Neu: Futterzarge</a></li>
 							<li><a href="Ansicht_Deckel_2025.html">Neu: Deckel</a></li>
-							<li><a href="Ansicht1.html">Alt: Ganze Beute (3,6 MB)</a></li>
+
 
 							<li>Weitere Ansichten folgen!</li>
 						</ul>
-						Innerhalb der WebGL-Ansicht kann mit der linken Maustaste gedreht werden, mit der mittleren (geklickt, oder scrollen) gezoomt und mit der rechten das Objekt bewegt werden. <b>Nicht</b> für Touchgeräte geeignet!
+						Innerhalb der WebGL-Ansicht kann mit der linken Maustaste gedreht werden, mit der mittleren (geklickt, oder scrollen) gezoomt und mit der rechten das Objekt bewegt werden.
 
-						<h2>Zusammenbauen</h2>
-						Zusammenstellen des Bauplans: Bei der herunterladbaren FreeCAD-Datei gibt es eine Tabelle, in der die Holzdicke, Anzahl und Maße der Rähmchen (<a href="https://de.wikipedia.org/wiki/R%C3%A4hmchen#/media/Datei:Frame_dimensions_modern.png">siehe Skizze</a> ) eingetragen werden können - Die Konstruktionszeichnung passt sich dann automatisch diesen Werten an.
+						<h2>Erstellen des Bauplans</h2>
+						Bei der neuen herunterladbaren FreeCAD-Datei gibt es eine Tabelle, in der die Holzdicke, Anzahl und Maße der Rähmchen (<a href="https://de.wikipedia.org/wiki/R%C3%A4hmchen#/media/Datei:Frame_dimensions_modern.png">siehe Skizze</a> ) eingetragen werden können - Die Konstruktionszeichnung passt sich dann automatisch diesen Werten an.
+						So kommt man ganz einfach zu einer Beute für das eigene Rähmchenmaß und verfügbare Holz.
 
 						<img src="img/Freecad_Tabelle.png" alt="Tabelle in FreeCAD Datei" class="img-fullwidth">
 
@@ -77,7 +80,7 @@
 						Für manche komplizierteren Bauteile funktioniert das nicht, in diesen Fällen lassen sich die Dimensionen aber anhand der Bauteile rundherum leicht herausfinden.
 						Achtung: Die Holzmaserung sollte immer längs der Bauteile gehen, niemals quer - egal wie diese im Bauplan angeordnet sind.
 
-						<img src="img/Freecad_Bauteilinfos" alt="Bauteilinfos in FreeCAD Datei" class="img-fullwidth">
+						<img src="img/Freecad_Bauteilinfos.png" alt="Bauteilinfos in FreeCAD Datei" class="img-fullwidth">
 
 
 
