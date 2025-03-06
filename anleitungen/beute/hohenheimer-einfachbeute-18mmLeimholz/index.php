@@ -72,16 +72,16 @@
 						<h2>Erstellen des Bauplans</h2>
 						Bei der neuen herunterladbaren FreeCAD-Datei gibt es eine Tabelle, in der die Holzdicke, Anzahl und Maße der Rähmchen (<a href="https://de.wikipedia.org/wiki/R%C3%A4hmchen#/media/Datei:Frame_dimensions_modern.png">siehe Skizze</a> ) eingetragen werden können - Die Konstruktionszeichnung passt sich dann automatisch diesen Werten an.
 						So kommt man ganz einfach zu einer Beute für das eigene Rähmchenmaß und verfügbare Holz.
-
+						<br /><br />
 						<img src="img/Freecad_Tabelle.png" alt="Tabelle in FreeCAD Datei" class="img-fullwidth">
-
+						<br /><br />
 						In der Spalte auf der linken Seite lassen sich die Dimensionen der einzelnen Bauteile ablesen.
 						Bauteile lassen sich entweder in der Ansicht rechts auswählen oder in der Teile-Auflistung in der linken Spalte.
 						Für manche komplizierteren Bauteile funktioniert das nicht, in diesen Fällen lassen sich die Dimensionen aber anhand der Bauteile rundherum leicht herausfinden.
 						Achtung: Die Holzmaserung sollte immer längs der Bauteile gehen, niemals quer - egal wie diese im Bauplan angeordnet sind.
-
+						<br /><br />
 						<img src="img/Freecad_Bauteilinfos.png" alt="Bauteilinfos in FreeCAD Datei" class="img-fullwidth">
-
+						<br /><br />
 
 
 						<h2>Zusammenbauen</h2>
@@ -103,26 +103,27 @@
 						<h4>Untere Bauteilgruppe</h4>
 						<p>
 							Ich habe zuerst die beiden hinteren Füße (in der Zeichnung gelb) zusammengeleimt, danach die äußeren beiden Bretter (dunkelblau) auf den vorderen Fuß geleimt und das hellgraue Brett dazwischen; danach die beiden Teile (wie im Bild gezeigt) zusammen. Dabei ist es ganz hilfreich, ein Stück Verschnittholz unter die beiden dunkelblauen Bretter zu legen.
-						<img src="img/boden_lower-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, untere Bauteilgruppe" class="img-fullwidth">
-						<br /><br />
-						Wenn das hintere Brett einen Putzkeil bekommen soll, dann ist es nicht notwendig dieses Teil zuschneiden zu lassen. Stattdessen lassen sich meist aus den übrig gebliebenen Holzresten entsprechende Teile finden, die zusammen eine Art "Rahmen" ergeben.
-						<br /><br />
-                        TODO: FOTO!!!
-						<br /><br />
-						Nun werden die Seitenteile des Bodens (hellblau) von unten an das Flugbrett und die beiden grünen Bretter geschraubt.
-						<img src="img/boden_upper_bohren-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, obere Bauteilgruppe" class="img-fullwidth">
-						<img src="img/boden_upper-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, obere Bauteilgruppe" class="img-fullwidth">
-						Danach werden noch die zwei rosa Bretter wie im Bild festgeschraubt. Das Innere sollte mindestens 8mm Abstand vom Flugbrett haben (beespace). Ich lasse meist etwas mehr Abstand und enge bei Bedarf das Flugloch mit einer extra Holzleiste ein bzw. tackere über den Winter ein Mäusegitter davor.
-						<img src="img/boden_upper2-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, obere Bauteilgruppe" class="img-fullwidth">
-						Das Edelstahlgitter wird nun an den Putzkeil-Rahmen getackert und dieser mit den Seitenteilen verschraubt. Anschließend wird das Gitter noch rundherum am Flugbrett und den grünen Brettern rechts und links festgetackert.
-						<br /><br />
-                        TODO: FOTO des fertigen Bodens von mehreren Blickwinkeln aus!!!
-						<br /><br />
+						    <br /><br />
+						    <img src="img/boden_lower-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, untere Bauteilgruppe" class="img-fullwidth">
+						    <br /><br />
+						    Wenn das hintere Brett einen Putzkeil bekommen soll, dann ist es nicht notwendig dieses Teil zuschneiden zu lassen. Stattdessen lassen sich meist aus den übrig gebliebenen Holzresten entsprechende Teile finden, die zusammen eine Art "Rahmen" ergeben.
+						    <br /><br />
+                            TODO: FOTO!!!
+						    <br /><br />
+						    Nun werden die Seitenteile des Bodens (hellblau) von unten an das Flugbrett und die beiden grünen Bretter geschraubt.
+						    <img src="img/boden_upper_bohren-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, obere Bauteilgruppe" class="img-fullwidth">
+						    <img src="img/boden_upper-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, obere Bauteilgruppe" class="img-fullwidth">
+						    Danach werden noch die zwei rosa Bretter wie im Bild festgeschraubt. Das Innere sollte mindestens 8mm Abstand vom Flugbrett haben (beespace). Ich lasse meist etwas mehr Abstand und enge bei Bedarf das Flugloch mit einer extra Holzleiste ein bzw. tackere über den Winter ein Mäusegitter davor.
+						    <img src="img/boden_upper2-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, obere Bauteilgruppe" class="img-fullwidth">
+						    Das Edelstahlgitter wird nun an den Putzkeil-Rahmen getackert und dieser mit den Seitenteilen verschraubt. Anschließend wird das Gitter noch rundherum am Flugbrett und den grünen Brettern rechts und links festgetackert.
+						    <br /><br />
+                            TODO: FOTO des fertigen Bodens von mehreren Blickwinkeln aus!!!
+						    <br /><br />
 
 
-						<br /><br />
-						Aus dem übriggebliebenen Stück Holz von der hinteren Wand kann ggf. noch der Verschluss für den Putzkeil gebaut werden, ich bin jedoch dazu übergegangen mir zwei passende Sperrholzstücke im Baumarkt zuschneiden zu lassen. Diese werden verleimt, aneinandergetackert (nur leim hält bei Feuchtigkeit nicht) und beidseitig gestrichen. Nach dem Trocknen rechts und links mit Vorreibern fixieren.
-						<br /><br />
+						    <br /><br />
+						    Aus dem übriggebliebenen Stück Holz von der hinteren Wand kann ggf. noch der Verschluss für den Putzkeil gebaut werden, ich bin jedoch dazu übergegangen mir zwei passende Sperrholzstücke im Baumarkt zuschneiden zu lassen. Diese werden verleimt, aneinandergetackert (nur leim hält bei Feuchtigkeit nicht) und beidseitig gestrichen. Nach dem Trocknen rechts und links mit Vorreibern fixieren.
+						    <br /><br />
 
 							<br /><br />
 						</p> 
