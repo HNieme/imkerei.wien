@@ -106,7 +106,7 @@
 						    <br /><br />
 						    <img src="img/boden_lower-small.jpg" alt="Hohenheimer Einfachbeute Boden zusammenbauen, untere Bauteilgruppe" class="img-fullwidth">
 						    <br /><br />
-						    Wenn das hintere Brett einen Putzkeil bekommen soll, dann ist es nicht notwendig dieses Teil zuschneiden zu lassen. Stattdessen lassen sich meist aus den übrig gebliebenen Holzresten entsprechende Teile finden, die zusammen eine Art "Rahmen" ergeben.
+						    Wenn das hintere Brett einen Putzkeil bekommen soll, dann ist es nicht notwendig die Platte mit Loch zuschneiden zu lassen. Stattdessen lassen sich meist aus den übrig gebliebenen Holzresten entsprechende Teile finden, die zusammen eine Art "Rahmen" ergeben.
 						    <br /><br />
                             TODO: FOTO!!!
 						    <br /><br />
