@@ -50,7 +50,7 @@
 				</ul>
 			</nav>
 			<div id="newsletter-outer">
-			<form id="newsletter" method="post" action="https://wien.us3.list-manage.com/subscribe/post?u=465f7d9e59f2918c71fc75662&amp;id=323a3cde88&amp;f_id=00e035e1f0" class="listmonk-form" target="_blank" novalidate="">
+		 <!-- 	<form id="newsletter" method="post" action="https://wien.us3.list-manage.com/subscribe/post?u=465f7d9e59f2918c71fc75662&amp;id=323a3cde88&amp;f_id=00e035e1f0" class="listmonk-form" target="_blank" novalidate="">
                 <img src="/assets/img/newsletter.png"></img>
                 <div id="newsletter-description">
 
@@ -70,8 +70,26 @@
                     <input id="subscribeBtn" type="submit" value="Anmelden">
                     </div>
             </form>
+-->
+			<form id="newsletter" method="post" action="https://flow.cleverreach.com/fl/39585efd-f4eb-47ec-937b-295cbb26b7b8/confirm" class="listmonk-form" target="_blank">
+                <img src="/assets/img/newsletter.png"></img>
+                <div id="newsletter-description">
 
 
+                    <h3>Newsletter abonnieren</h3>
+                    <p>Einblicke ins Bienen- und Imkerleben gibt es jetzt auch per Mail, etwa ein Mal pro Monat :)
+                    <br />
+                    Leider landen die Bestätigungs-Mails bei manchen Anbietern im Spam - Gegebenenfalls mal dort nachschauen, bitte :)
+                    </p>
+                </div>
+                <div id="newsletter-form">
+                    <input type="text" tabindex="-1" autocomplete="false" style="display:none !important;" name="email_confirm">
+                    <p>
+                        <input type="email" name="email" required="" placeholder="E-mail">
+                    </p>
+                    <input id="subscribeBtn" type="submit" value="Anmelden">
+                    </div>
+            </form>
 
             <!-- Altes Newsletter-Anmeldeformular
             			<form id="newsletter" method="post" action="https://listmonk.niemeczek.at/subscription/form" class="listmonk-form">
