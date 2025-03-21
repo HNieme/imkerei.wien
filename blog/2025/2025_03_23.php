@@ -35,6 +35,16 @@
                         Für jene, denen es damals zu kalt war oder die aus anderen Gründen keine Zeit hatten gibt es
                         nun einen zweiten Termin.
 					    <br /><br />
+					    <b>Achtung: Da es am Sonntag warm genug für relativ starken Bienenflug sein kann ein paar Ratschläge:
+					    Bienen mögen manche künstlichen Geruchsstoffe nicht - und auch keine Bananen. Daher empfehle ich darauf vor dem Vortrag zu verzichten.
+					    <br /><br />
+					    Außerdem empfiehlt es sich helle Kleidung zu tragen und auf schwarz/dunkelblau/... zu verzichten.
+					    <br /><br />
+					    Falls das aus irgend einem Grund nicht möglich sein sollte ist das auch kein großes Problem. <br />
+					    Der Großteil des Vortrags ist weit von den Bienen entfernt, nur bei der Beobachtung des Fluglochs
+					    sind wir in der Nähe der Bienen - das könntet ihr selbstverständlich auch auslassen.
+					    </b>
+					    <br /><br />
 					    <img src="img/2025_03_23_Vortrag_Bienen_im_Winter.png" alt="Biene auf Schnee in Winterlandschaft - KI-Generiert"  class="img-fullwidth">
 					    KI-Generiertes Bild
 					</p>
