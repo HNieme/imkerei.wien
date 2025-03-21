@@ -3,7 +3,7 @@
 					<p>
 					    Im Winter lassen die Bienen immer ein paar "Bröseln" fallen. Hauptsächlich sind das aufgenagte Wabendeckeln um an den Honig zu kommen, aber auch Varroa-Milben, die bei der Behandlung im Winter abgefallen sind und anderer Abfall.
 					    <br /><br />
-					    Diese Bröseln landen dann auf einem Kunststoff-Schieber. Ich sammle diese jedes Jahr ein, fülle sie in einen Probenbehälter und gebe diesen bei meinem Imkerverein ab, der sie gesammelt mit anderen Proben in ein Labor versendet. Dort wird untersucht, ob meine Bienen Amerikanische Faulbrut (eine hochansteckende Seuche) haben. Falls nicht bekommt man ein Gesundheitszeugnis, das Voraussetzung ist um Bienen beispielsweise auf Belegstellen zu bringen oder mit ihnen zu einer Tracht zu wandern. Auch alle Bienen, die hier auf Hektar Nektar verkauft werden benötigen ein Gesundheitszeugnis.
+					    Diese Bröseln landen dann auf einem Kunststoff-Schieber. Ich sammle diese jedes Jahr ein, fülle sie in einen Probenbehälter und gebe diesen bei meinem Imkerverein ab, der sie gesammelt mit anderen Proben in ein Labor versendet. Dort wird untersucht, ob meine Bienen Amerikanische Faulbrut (eine hochansteckende Seuche) haben. Falls nicht bekommt man ein Gesundheitszeugnis, das Voraussetzung ist um Bienen beispielsweise auf Belegstellen zu bringen oder mit ihnen zu einer Tracht zu wandern. Auch beim Verkauf von Bienen ist es gut, wenn ein Gesundheitszeugnis vorhanden ist.
 					    <br /><br />
 					    Funktioniert also so ähnlich wie ein Gurgeltest, nur auf das Ergebnis muss man länger warten :)
 					    <br /><br />

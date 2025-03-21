@@ -2,6 +2,7 @@
 			include "../assets/template/head/head.php";
 		?>
 		<?php
+		    include "2025/article-preview-list.php";
 		    include "2024/article-preview-list.php";
 			include "imkerlatein/beute_preview.php";
 			include "2018/2018_04_07_preview.php";
