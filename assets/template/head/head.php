@@ -78,8 +78,10 @@
 
                     <h3>Newsletter abonnieren</h3>
                     <p>Einblicke ins Bienen- und Imkerleben gibt es jetzt auch per Mail, etwa ein Mal pro Monat :)
-                    <br />
-                    Leider landen die Bestätigungs-Mails bei manchen Anbietern im Spam - Gegebenenfalls mal dort nachschauen, bitte :)
+
+                    <small><br /><br />
+                        Leider landen die Bestätigungs-Mails bei manchen Anbietern im Spam - Gegebenenfalls mal dort nachschauen, bitte :)
+                    </small>
                     </p>
                 </div>
                 <div id="newsletter-form">
