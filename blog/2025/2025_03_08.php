@@ -21,9 +21,9 @@
 					    gegangen oder schlecht begattet worden sein.<br />
 					    Die noch fehlenden ~6 Völker haben es nicht über den Winter geschafft - Soweit ich das beurteilen
 					    kann gab es trotz Behandlung im Herbst relativ hohen Varroa-Befall, der für den Verlust der Völker
-					    verantwortlich sein dürfte sowie bei zwei Völkern ein sogenannter Futter-Abriss, also die Bienen
-					    haben das Futter in der Nähe des Platzes, an dem sie saßen aufgebraucht und es dann aufgrund der
-					    Temperaturen nicht mehr zu frischem Futter ein paar Zentimeter weiter geschafft.
+					    verantwortlich sein dürfte, sowie bei zwei Völkern einen sogenannten Futter-Abriss. Dabei schaffen
+					    es die Bienen nicht mehr zu Waben zu wandern, in denen noch frisches Futter ist, nachdem sie das
+					    in ihrer nächsten Umgebung bereits verbraucht haben.
 					    <br /><br />
 					    Laut Informationen meines Imkervereins dürfte es allerdings insgesamt sehr hohe Völkerverluste
 					    mit noch unbekannter Ursache in Wien gegeben haben (über 50 Prozent!). In Anbetracht dessen bin

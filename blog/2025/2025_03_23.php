@@ -36,4 +36,5 @@
                         nun einen zweiten Termin.
 					    <br /><br />
 					    <img src="img/2025_03_23_Vortrag_Bienen_im_Winter.png" alt="Biene auf Schnee in Winterlandschaft - KI-Generiert"  class="img-fullwidth">
+					    KI-Generiertes Bild
 					</p>
