@@ -43,6 +43,8 @@
 					    Falls das aus irgend einem Grund nicht möglich sein sollte ist das auch kein großes Problem. <br />
 					    Der Großteil des Vortrags ist weit von den Bienen entfernt, nur bei der Beobachtung des Fluglochs
 					    sind wir in der Nähe der Bienen - das könntet ihr selbstverständlich auch auslassen.
+					    <br /><br />
+					    5 Stk Schutzkleidung stehen zur Verfügung, falls sich jemand bei den Bienen ohne nicht wohl fühlen sollte.
 					    </b>
 					    <br /><br />
 					    <img src="img/2025_03_23_Vortrag_Bienen_im_Winter.png" alt="Biene auf Schnee in Winterlandschaft - KI-Generiert"  class="img-fullwidth">
