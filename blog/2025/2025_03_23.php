@@ -21,8 +21,8 @@
                         vielleicht besteht ja auch Interesse an einer zweiten Ausgabe mit anderem Thema irgendwann
                         Ende April/Mai :)
                         <br /><br />
-                        <b>Ort:</b> U6 Station Am Schöpfwerk
-                        <b>Kosten:</b> nix/freie Spende ;)
+                        <b>Ort:</b> U6 Station Am Schöpfwerk<br />
+                        <b>Kosten:</b> nix/freie Spende ;)<br />
                         <b>Zeit:</b> Sonntag, 23.03.2025 ab 11:00h (Dauer: etwa 1-2 Stunden)
                         <br /><br />
                         Findet nur bei halbwegs trockenem Wetter statt, ansonsten verschiebe ich den Termin :)
