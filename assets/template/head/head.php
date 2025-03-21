@@ -50,7 +50,7 @@
 				</ul>
 			</nav>
 			<div id="newsletter-outer">
-			<form id="newsletter" method="post" action="https://flow.cleverreach.com/fl/39585efd-f4eb-47ec-937b-295cbb26b7b8/confirm" class="listmonk-form" target="_blank">
+			<form id="newsletter" method="post" action="https://wien.us3.list-manage.com/subscribe/post?u=465f7d9e59f2918c71fc75662&amp;id=323a3cde88&amp;f_id=00e035e1f0" class="listmonk-form" target="_blank" novalidate="">
                 <img src="/assets/img/newsletter.png"></img>
                 <div id="newsletter-description">
 
@@ -61,11 +61,18 @@
                 <div id="newsletter-form">
                     <input type="text" tabindex="-1" autocomplete="false" style="display:none !important;" name="email_confirm">
                     <p>
-                        <input type="email" name="email" required="" placeholder="E-mail">
+                        <input type="email" name="EMAIL" required="" placeholder="E-mail">
                     </p>
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+                        <input type="text" name="b_465f7d9e59f2918c71fc75662_323a3cde88" tabindex="-1" value="">
+                    </div>
                     <input id="subscribeBtn" type="submit" value="Anmelden">
                     </div>
             </form>
+
+
+
             <!-- Altes Newsletter-Anmeldeformular
             			<form id="newsletter" method="post" action="https://listmonk.niemeczek.at/subscription/form" class="listmonk-form">
                             <img src="/assets/img/newsletter.png"></img>
@@ -91,6 +98,23 @@
                                 <input id="subscribeBtn" type="submit" value="Anmelden">
                                 </div>
                         </form>
+            Alter newsletter cleverreach
+			<form id="newsletter" method="post" action="https://flow.cleverreach.com/fl/39585efd-f4eb-47ec-937b-295cbb26b7b8/confirm" class="listmonk-form" target="_blank">
+                <img src="/assets/img/newsletter.png"></img>
+                <div id="newsletter-description">
+
+
+                    <h3>Newsletter abonnieren</h3>
+                    <p>Einblicke ins Bienen- und Imkerleben gibt es jetzt auch per Mail, etwa ein Mal pro Monat :)</p>
+                </div>
+                <div id="newsletter-form">
+                    <input type="text" tabindex="-1" autocomplete="false" style="display:none !important;" name="email_confirm">
+                    <p>
+                        <input type="email" name="email" required="" placeholder="E-mail">
+                    </p>
+                    <input id="subscribeBtn" type="submit" value="Anmelden">
+                    </div>
+            </form>
                         -->
             </div>
 			<article>
