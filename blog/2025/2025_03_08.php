@@ -32,8 +32,7 @@
 					    <br /><br />
 					    Fazit für den kommenden Sommer: Früher gegen Varroa behandeln (sofern dies möglich ist - Es darf
 					    im Bienenvolk maximal 35°C haben, bei Hitzewellen ist man da sehr schnell drüber), Ableger
-					    erstellen um eine Reserve für nächsten Winter zu haben und besser die Varroa-Belastung kontrollieren.
+					    erstellen um eine Reserve für nächsten Winter zu haben und noch besser die Varroa-Belastung kontrollieren.
 					    <br /><br />
 					    <img src="img/2025_03_08_Bienenwabe_Licht_durchscheinend.jpg" alt="Bienenwabe, fotografiert gegen die Sonne, sodass das Licht durchscheint."  class="img-fullwidth">
-					    (KI-generiertes Bild)
 					</p>
