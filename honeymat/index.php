@@ -7,6 +7,9 @@
             // hide header navigation
             document.getElementById('headernav').style.display = "none";
 
+            // hide newsletter subscription form
+            document.getElementById('newsletter-outer').style.display = "none";
+
             // hide footer navigation
             elems = Object.values(document.getElementsByClassName('footer-link-collection'));
 
