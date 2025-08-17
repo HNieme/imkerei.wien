@@ -34,11 +34,14 @@
 			</p>
             <h3>Eine ganze Wabe</h3>
             <p>
+			<br />
     			<img src="img/wabenhonig_ganze_wabe.png" alt="Wabenhonig, ganze Wabe"  class="img-fullwidth">
                 Für die ganz großen Wabenhonig-Liebhaber.
 				<br />
                 Eine Wabe wiegt 2-3kg. Abholung direkt bei den Bienen, ich ernte den Wabenhonig frisch und du bekommst die gesamte Wabe. 2,50€/100g.
 
+				<br />
+				<br />
 
             </p>
 
