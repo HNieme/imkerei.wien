@@ -22,11 +22,11 @@
 				<br /><br />
 
 			</p>
-            <h2>Wie lange hält sich Honig</h2>
+            <h2>Wie lange hält sich Honig?</h2>
             <p>
                 Nun, das kommt darauf an - unter den richtigen Bedingungen kann Honig sehr lange haltbar sein.
                 <br /><br />
-                Was sind die richtigen Bedingungen? Am Etikett muss stehen <i>"Trocken und vor Wärme geschützt lagern"</i> oder ""<i>"Vor Licht und Wärme geschützt lagern"</i>.
+                Was sind die richtigen Bedingungen? Am Etikett muss stehen <i>"Trocken und vor Wärme geschützt lagern"</i> oder <i>"Vor Licht und Wärme geschützt lagern"</i>.
                 Und genau das sollte man auch machen. Also Glas gut zuschrauben, niemals offen stehen lassen. Nicht am Fensterbrett oder im heißen Auto liegen lassen.
                 Vorräte am Besten in den (trockenen) Keller stellen.
                 <br /><br />
@@ -42,6 +42,19 @@
                 Nein - um ein Produkt als "Bio" verkaufen zu dürfen muss man ein aufwändiges und teures Zertifizierungsverfahren durchlaufen und sehr viele Voraussetzungen erfüllen. Für mich ist die Imkerei nur ein Hobby, bei den geringen Mengen an Honig die ich ernte zahlt sich die Zertifizierung nicht aus.
                 <br /><br />
                 Aber ich kann versprechen: In meinem Honig ist nur Honig drin - zu 100% von den Bienenstöcken neben dem Stadtwäldchen, gesammelt von meinen Bienen im Umkreis von bis zu 3 km.
+                <br />
+                <br />
+            </p>
+            <h2>Wie ist das mit kristallisieren?</h2>
+            <p>
+                Irgendwann kristallisiert jeder Honig. Manche kristallisieren so schnell, dass bereits die Ernte zum Problem werden kann, zum Beispiel Rapshonig oder manche Waldhonige. Andere wiederum brauchen Monate oder Jahre bis zur Kristallisation - beispielsweise Robinienhonig ("Akazienhonig").
+                <br /><br />
+                Außerdem entscheidet die Temperatur wie schnell Honig kristallisiert. Im Kühlschrank geht das oft sehr schnell, bei Raumtemperatur deutlich langsamer.
+                <br /><br />
+                Letztes Jahr hat mein Honig (im Keller gelagert) ein paar Monate gebraucht, bis er fest kristallisiert war.
+                <br />
+                <br />
+                Ist der Honig mal kristallisiert und soll wieder flüssig werden hilft ihn aufzuwärmen: Entweder im Wasserbad (gut zugeschraubt und Wasser nie bis zum Schraubverschluss!) oder auf der Heizung. In beiden Fällen heißt es aber: Temperatur gut überwachen - 36 bis 40°C sind ideal darüber hinaus leidet die Qualität! Nach ein paar Stunden ist der Honig wieder flüssig.
                 <br />
                 <br />
             </p>
