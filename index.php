@@ -1,6 +1,7 @@
 		<?php 
 			include "assets/template/head/head.php";
 		?>
+							<h1>2025</h1>
 		<?php
 		    include "blog/2025/article-preview-list.php";
 		    include "blog/2024/article-preview-list.php";
