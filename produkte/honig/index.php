@@ -19,6 +19,8 @@
 				<br />
 				<br />
 				So entsteht ein intensiver, herrlich schmeckender Honig, der bald als ein Glas süßes Gold den Weg zu dir nach Hause finden könnte :)
+				<br /><br />
+
 			</p>
             <h2>Wie lange hält sich Honig</h2>
             <p>
@@ -33,13 +35,15 @@
                 Hält man sich an die obigen Tipps wird der Honig voraussichtlich auch lange danach noch gut schmecken.
                 <br />
                 Aber mal ehrlich: Der beste Aufbewahrungsort ist doch ohnehin der Magen ;)
-
+                <br /><br />
             </p>
             <h2>Ist der Honig Bio?</h2>
             <p>
                 Nein - um ein Produkt als "Bio" verkaufen zu dürfen muss man ein aufwändiges und teures Zertifizierungsverfahren durchlaufen und sehr viele Voraussetzungen erfüllen. Für mich ist die Imkerei nur ein Hobby, bei den geringen Mengen an Honig die ich ernte zahlt sich die Zertifizierung nicht aus.
                 <br /><br />
                 Aber ich kann versprechen: In meinem Honig ist nur Honig drin - zu 100% von den Bienenstöcken neben dem Stadtwäldchen, gesammelt von meinen Bienen im Umkreis von bis zu 3 km.
+                <br />
+                <br />
             </p>
 			<h2>Preise</h2>
 			<p>
