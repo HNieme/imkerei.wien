@@ -1,16 +1,16 @@
 					<p><br /><br /></p>
-					<h3 id="2025_03_30"><a href="#2025_03_30" >30. März - Frühlingserwachen</a></h3>
+					<h3 id="2025_03_30"><a href="#2025_03_30" >20. April - Gibt es eigentlich noch wilde Bienenvölker?</a></h3>
 					<p>
 					    <br /><br />
-						    Früher lebten Bienen in hohlen Baumstämmen. Im Frühjahr schwärmten die Bienen oft mehrmals,
+						    Früher lebten Bienen in hohlen Baumstämmen. Jedes Frühjahr schwärmten die Bienen, oft sogar mehrmals,
 						    die Schwärme suchten wiederum nach noch unbesetzten Baumhöhlen und zogen dort ein. Diese
 						    wilden Bienenvölker wurden auch durch Menschen genutzt, die auch Bäume gezielt aushöhlten um
 						    Wohnraum für Bienen zu schaffen. Der Berufszweig hieß Zeidlerei, der gewonnene Honig war das
-						    einzige wirklich süße verfügbare Produkt. Zucker und andere Süßungsmittel gab es noch nicht.20
+						    einzige wirklich süße verfügbare Produkt. Zucker und andere Süßungsmittel gab es noch nicht.
 						    <br/><br/>
-						    Seit in den 1970er Jahren in Europa die Varroamilbe eingeschleppt wurde gibt es so gut wie
-						    keine wilden Bienenvölker mehr. Wir Imker können die Bienen durch Behandlungsmethoden von den
-						    Milben befreien, in der Natur gehen Bienenvölker ohne Behandlung meist binnen eines Jahres
+						    Seit in den 1970er Jahren in Europa die Varroamilbe eingeschleppt wurde sind so gut wie
+						    alle wilden Bienenvölker verschwunden. Wir Imker können die Bienen durch Behandlungsmethoden von den
+						    Milben befreien, in der Natur gehen Bienenvölker ohne Behandlung jedoch meist binnen eines Jahres
 						    daran zugrunde.
 						    <br/><br/>
 						    So auch hier: Bei einer Radtour im Leithagebirge entdeckten wir eine gefällte Eiche, die
