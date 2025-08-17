@@ -12,6 +12,11 @@
                 // insert payment_id into above <span>
                 const queryString = window.location.search;
                 document.getElementById('bestellnr').textContent = new URLSearchParams(queryString).get('payment_id');
+
+
+                // hide newsletter subscription form
+                document.getElementById('newsletter-outer').style.display = "none";
+
             </script>
             <br/>
             <br/>
