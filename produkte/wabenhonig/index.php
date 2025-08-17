@@ -14,23 +14,31 @@
 				Ich esse Wabenhonig beispielsweise gerne zum Frühstück oder nasche ihn einfach mal zwischendurch. Das Wachs kann dabei mitgegessen werden oder einfach nur gekaut und dann ausgespuckt werden. Außerdem kann man Wabenhonig, wie normalen Honig auch, aufs Brot streichen.
 				<br />
 				<br />
-				Ich produziere Wabenhonig in zwei Varianten: Als Stück aus einer großen Wabe geschnitten oder von Bienen direkt in den Rahmen gebaut.
+				Ich produziere Wabenhonig in zwei Varianten: Als Stück aus einer großen Wabe geschnitten oder als ganze Wabe inkl. Rähmchen.
 				<br />
 				<br />
 			</p>
 			<h3>Wabenhonig, direkt aus der Wabe geschnitten</h3>
 			<p><br /></p>
 			<img src="img/wabenhonig_block_gimp_small.jpg" alt="Wabenhonig, Ansicht von oben und Schnitt"  class="img-fullwidth">
+			<img src="img/wabenhonig_kunststofftasse.png" alt="Wabenhonig in Kunststofftasse"  class="img-fullwidth">
 			<p>
+                Erhältlich auf Anfrage, 3,00€/100g
 				<br />
-				Vollständig verdeckelte Zellen, aus der Fühjahrstracht. 
-				<br />
-				Erhältlich auf Anfrage, 3,50€/100g
-				<br />
-				<b>Bitte um Vorbestellung per E-Mail bis Anfang April - Der Wabenhonig ist je nach Wetter etwa im Juni fertig!</b> Spätere Bestellungen sind je nach Verfügbarkeit auch möglich - Bitte ggf. einfach anfragen!
+				<b>Bitte um Vorbestellung per E-Mail bis Anfang April - Der Wabenhonig ist je nach Wetter etwa im Juni fertig!</b> Spätere Bestellungen sind je nach Verfügbarkeit auch möglich - Aktuell (August 2025) gibt es noch ein paar Tassen!
 				<br />
 				<br />
 			</p>
+            <h3>Eine ganze Wabe</h3>
+            <p>
+    			<img src="img/wabenhonig_ganze_wabe.png" alt="Wabenhonig, ganze Wabe"  class="img-fullwidth">
+                Für die ganz großen Wabenhonig-Liebhaber.
+				<br />
+                Eine Wabe wiegt 2-3kg. Abholung direkt bei den Bienen, ich ernte den Wabenhonig frisch und du bekommst die gesamte Wabe. 2,50€/100g.
+
+
+            </p>
+
 			<h3>Wabenhonig, von Bienen in Rähmchen gebaut</h3>
 			<p><br /></p>
 			<img src="img/wabenhonig_kleiner_rahmen_small.jpg" alt="Wabenhonig im Rahmen"  class="img-fullwidth">
@@ -40,7 +48,7 @@
 				<br />
 				Dort beginnen die Bienen damit, Waben zu bauen und Honig einzulagern. Erst wenn alle Zellen vollständig verdeckelt sind können die Rähmchen entnommen, gewogen und verpackt werden. 
 				<br /><br />
-				Erhältlich auf Anfrage, 5,00€/Stück.
+				Erhältlich auf Anfrage, 10,00€/Stück.
 				<b>Bitte um Vorbestellung per E-Mail bis Anfang April - Der Wabenhonig ist je nach Wetter etwa im Juni fertig!</b>
 
 			</p>

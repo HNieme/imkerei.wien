@@ -54,7 +54,7 @@
                 Letztes Jahr hat mein Honig (im Keller gelagert) ein paar Monate gebraucht, bis er fest kristallisiert war.
                 <br />
                 <br />
-                Ist der Honig mal kristallisiert und soll wieder flüssig werden hilft ihn aufzuwärmen: Entweder im Wasserbad (gut zugeschraubt und Wasser nie bis zum Schraubverschluss!) oder auf der Heizung. In beiden Fällen heißt es aber: Temperatur gut überwachen - 36 bis 40°C sind ideal darüber hinaus leidet die Qualität! Nach ein paar Stunden ist der Honig wieder flüssig.
+                Ist der Honig mal kristallisiert und soll wieder flüssig werden hilft ihn aufzuwärmen: Entweder im Wasserbad (gut zugeschraubt und Wasser nie bis zum Schraubverschluss!) oder auf der Heizung. In beiden Fällen heißt es aber: Temperatur gut überwachen - 36 bis 40°C sind ideal. Darüber hinaus leidet die Qualität! Nach ein paar Stunden ist der Honig wieder flüssig.
                 <br />
                 <br />
             </p>
