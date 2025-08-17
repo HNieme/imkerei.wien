@@ -25,7 +25,10 @@
 			<p>
                 Erhältlich auf Anfrage, 3,00€/100g
 				<br />
-				<b>Bitte um Vorbestellung per E-Mail bis Anfang April - Der Wabenhonig ist je nach Wetter etwa im Juni fertig!</b> Spätere Bestellungen sind je nach Verfügbarkeit auch möglich - Aktuell (August 2025) gibt es noch ein paar Tassen!
+				<b>Bitte um Vorbestellung per E-Mail bis Anfang April - Der Wabenhonig ist je nach Wetter etwa im Juni fertig!</b>
+				<br />
+				<br />
+				Spätere Bestellungen sind je nach Verfügbarkeit auch möglich - Aktuell (August 2025) gibt es noch ein paar Tassen (100 bis 250g pro Tasse)!
 				<br />
 				<br />
 			</p>
