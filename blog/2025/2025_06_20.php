@@ -13,6 +13,6 @@
 						    <a href="https://youtu.be/aWemk_5BF0o">kannst du hier zusehen</a>
 
 					    <br /><br />
-					    <img src="img/2025_06_21_Flugverkehr" alt="Ziemlich viel Flugverkehr vor den Bienenstöcken"  class="img-fullwidth">
+					    <img src="img/2025_06_21_Flugverkehr.jpg" alt="Ziemlich viel Flugverkehr vor den Bienenstöcken"  class="img-fullwidth">
 					</p><!--https://youtube.com/shorts/o-50wNvKNLo?feature=share
 					HSYMyvypxzY-->
