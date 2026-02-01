@@ -1,5 +1,5 @@
 <?php
-include "2025_06_21.php";
+include "2025_06_20.php";
 include "2025_06_17.php";
 include "2025_05_01.php";
 include "2025_04_20.php";
