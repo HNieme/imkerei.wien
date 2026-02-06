@@ -20,7 +20,7 @@
             });
 
             // Define the API URL
-            const apiUrl = 'https://honeymat.at/availableProducts';
+            const apiUrl = 'https://api.honeymat.at/availableProducts';
 
             // Make a GET request
             fetch(apiUrl)
@@ -46,7 +46,7 @@
         window.onload = codeAddress;
         </script>
 
-            <form action="https://honeymat.at/order" method="post" target="_self" id="orderForm">
+            <form action="https://api.honeymat.at/order" method="post" target="_self" id="orderForm">
                 <img src="https://imkerei.wien/produkte/honig/img/preview.png" width="100%" />
                 <label class="productLabel" for="honey500">
                     <span class="product">Honig</span>
